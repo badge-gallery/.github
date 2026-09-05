@@ -1,5 +1,3 @@
-<p><a href="https://badge.gallery"><img src="https://raw.githubusercontent.com/badge-gallery/.github/main/profile/assets/icon.png" alt="badge.gallery" width="80" height="80"></a></p>
-
 # Hacker Con Badges
 
 **The hardware, firmware and stories behind hacker conference badges worldwide.**
