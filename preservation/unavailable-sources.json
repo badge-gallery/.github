@@ -1,0 +1,119 @@
+{
+  "reviewed_at": "2026-09-05T14:43:01.721Z",
+  "scope": "All upstream_unavailable records in results-1.json, results-2.json, and results-3.json; read-only public GitHub API and public repository metadata review.",
+  "records": [
+    {
+      "requested": "ElectronicCats/pwnpet",
+      "evidence": [
+        {
+          "url": "https://api.github.com/repos/ElectronicCats/pwnpet",
+          "finding": "GitHub REST repository endpoint returned 404 without a Location redirect on 2026-09-05."
+        },
+        {
+          "url": "https://github.com/ElectronicCats/PWNPet_CLI",
+          "finding": "Live same-owner repository describes a BLE command-line tool for the PwnPet badge; it does not state that it replaces or was renamed from pwnpet."
+        }
+      ],
+      "replacement": null,
+      "disposition": "unavailable; related live repository is not a verified replacement"
+    },
+    {
+      "requested": "Hexum064/dfiu-ch32v003-pcb",
+      "evidence": [
+        {
+          "url": "https://api.github.com/repos/Hexum064/dfiu-ch32v003-pcb",
+          "finding": "GitHub REST repository endpoint returned 404 without a Location redirect on 2026-09-05."
+        },
+        {
+          "url": "https://api.github.com/users/Hexum064/repos?per_page=100",
+          "finding": "Public GitHub owner repository listing returned no public repositories at review time."
+        }
+      ],
+      "replacement": null,
+      "disposition": "unavailable; no source-backed moved or renamed repository found"
+    },
+    {
+      "requested": "Hexum064/portal-gun-sao-dc33",
+      "evidence": [
+        {
+          "url": "https://api.github.com/repos/Hexum064/portal-gun-sao-dc33",
+          "finding": "GitHub REST repository endpoint returned 404 without a Location redirect on 2026-09-05."
+        },
+        {
+          "url": "https://api.github.com/users/Hexum064/repos?per_page=100",
+          "finding": "Public GitHub owner repository listing returned no public repositories at review time."
+        }
+      ],
+      "replacement": null,
+      "disposition": "unavailable; no source-backed moved or renamed repository found"
+    },
+    {
+      "requested": "emfcamp/Tildagon",
+      "evidence": [
+        {
+          "url": "https://api.github.com/repos/emfcamp/Tildagon",
+          "finding": "GitHub REST repository endpoint returned 404 without a Location redirect on 2026-09-05."
+        },
+        {
+          "url": "https://github.com/emfcamp/badge-2024-documentation",
+          "finding": "Live official EMF Camp repository describes itself as Tildagon badge documentation; it corroborates the artifact lineage but does not identify itself as a renamed Tildagon repository."
+        },
+        {
+          "url": "https://github.com/emfcamp/badge-2024-software",
+          "finding": "Live official EMF Camp software repository is present; no source states it is the renamed Tildagon repository."
+        }
+      ],
+      "replacement": null,
+      "disposition": "unavailable; current official lineage repositories exist but no single verified replacement"
+    },
+    {
+      "requested": "freewili/FreeWili_WebDocs",
+      "evidence": [
+        {
+          "url": "https://api.github.com/repos/freewili/FreeWili_WebDocs",
+          "finding": "GitHub REST repository endpoint returned 404 without a Location redirect on 2026-09-05."
+        },
+        {
+          "url": "https://github.com/wskellenger-intrepid/FreeWili_WebDocs",
+          "finding": "Live public repository has the exact former repository name and describes FreeWili web documentation, but its public metadata does not establish a GitHub transfer or rename from freewili/FreeWili_WebDocs."
+        },
+        {
+          "url": "https://github.com/freewili/whaletale_webdocs",
+          "finding": "Live owner repository describes FreeWili documentation; it does not state it replaces the unavailable repository."
+        }
+      ],
+      "replacement": null,
+      "disposition": "unavailable; exact-name candidate found but transfer/rename is unverified"
+    },
+    {
+      "requested": "Hexum064/portal-gun-sao-dc33-code",
+      "evidence": [
+        {
+          "url": "https://api.github.com/repos/Hexum064/portal-gun-sao-dc33-code",
+          "finding": "GitHub REST repository endpoint returned 404 without a Location redirect on 2026-09-05."
+        },
+        {
+          "url": "https://api.github.com/users/Hexum064/repos?per_page=100",
+          "finding": "Public GitHub owner repository listing returned no public repositories at review time."
+        }
+      ],
+      "replacement": null,
+      "disposition": "unavailable; no source-backed moved or renamed repository found"
+    },
+    {
+      "requested": "Hexum064/dfiu-ch32v003-code",
+      "evidence": [
+        {
+          "url": "https://api.github.com/repos/Hexum064/dfiu-ch32v003-code",
+          "finding": "GitHub REST repository endpoint returned 404 without a Location redirect on 2026-09-05."
+        },
+        {
+          "url": "https://api.github.com/users/Hexum064/repos?per_page=100",
+          "finding": "Public GitHub owner repository listing returned no public repositories at review time."
+        }
+      ],
+      "replacement": null,
+      "disposition": "unavailable; no source-backed moved or renamed repository found"
+    }
+  ]
+}
