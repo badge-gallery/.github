@@ -4,41 +4,358 @@
     "destination_name": "bornhack-2026-hardware",
     "destination_url": "https://github.com/badge-gallery/bornhack-2026-hardware",
     "license_url": "https://codeberg.org/Ranzbak/bornhack2026-hardware/src/branch/main/LICENSE",
-    "checked_at": "2026-09-05T14:55:38.543874+00:00",
+    "checked_at": "2026-09-05T15:04:51.988284+00:00",
     "status": "mirrored_verified",
     "refs_match": true,
     "actions_disabled": true,
     "license_basis": "explicit root license reviewed; unchanged source-preserving copy only",
     "source_ref_count": 11,
     "source_default_branch": "main",
-    "lfs_limitations": "LFS pointer check unavailable",
-    "submodule_limitations": null,
+    "lfs_limitations": "HEAD-only scan found no Git LFS pointer files.",
+    "submodule_limitations": "HEAD has no gitlink submodule entries.",
     "created_in_run": true,
     "destination_ref_count": 11,
     "source_commit_count": 86,
     "destination_commit_count": 86,
     "default_branch": "main",
-    "bare_mirror_size_bytes": 50001959
+    "bare_mirror_size_bytes": 50001959,
+    "lfs_pointer_paths_head": [],
+    "submodules_head_only": null,
+    "limitations_scope": "LFS and gitlink-submodule checks cover the default-branch HEAD only, not all historical refs.",
+    "submodule_gitlinks_head": []
   },
   {
     "source_url": "https://codeberg.org/kliment/flipspansion",
     "destination_name": "flipspansion",
     "destination_url": "https://github.com/badge-gallery/flipspansion",
     "license_url": "https://codeberg.org/kliment/flipspansion/src/branch/main/LICENSE.txt",
-    "checked_at": "2026-09-05T14:55:54.878975+00:00",
+    "checked_at": "2026-09-05T15:04:51.994103+00:00",
     "status": "mirrored_verified",
     "refs_match": true,
     "actions_disabled": true,
     "license_basis": "explicit root license reviewed; unchanged source-preserving copy only",
     "source_ref_count": 1,
     "source_default_branch": "main",
-    "lfs_limitations": "LFS pointer check unavailable",
-    "submodule_limitations": null,
+    "lfs_limitations": "HEAD-only scan found no Git LFS pointer files.",
+    "submodule_limitations": "HEAD has no gitlink submodule entries.",
     "created_in_run": true,
     "destination_ref_count": 1,
     "source_commit_count": 1,
     "destination_commit_count": 1,
     "default_branch": "main",
-    "bare_mirror_size_bytes": 1569852
+    "bare_mirror_size_bytes": 1569852,
+    "lfs_pointer_paths_head": [],
+    "submodules_head_only": null,
+    "limitations_scope": "LFS and gitlink-submodule checks cover the default-branch HEAD only, not all historical refs.",
+    "submodule_gitlinks_head": []
+  },
+  {
+    "source_url": "https://gitlab.com/why2025/team-badge/micropython",
+    "destination_name": "why2025-micropython",
+    "destination_url": "https://github.com/badge-gallery/why2025-micropython",
+    "license_url": "https://gitlab.com/why2025/team-badge/micropython/-/blob/master/LICENSE",
+    "checked_at": "2026-09-05T15:04:52.005955+00:00",
+    "status": "mirrored_verified",
+    "refs_match": true,
+    "actions_disabled": true,
+    "license_basis": "explicit root license reviewed; unchanged source-preserving copy only",
+    "source_ref_count": 6,
+    "source_default_branch": "master",
+    "lfs_limitations": "HEAD-only scan found no Git LFS pointer files.",
+    "submodule_limitations": "HEAD contains gitlink submodule entries; referenced dependency contents were not copied.",
+    "created_in_run": true,
+    "destination_ref_count": 6,
+    "source_commit_count": 17039,
+    "destination_commit_count": 17039,
+    "default_branch": "master",
+    "bare_mirror_size_bytes": 160471298,
+    "lfs_pointer_paths_head": [],
+    "submodules_head_only": null,
+    "limitations_scope": "LFS and gitlink-submodule checks cover the default-branch HEAD only, not all historical refs.",
+    "submodule_gitlinks_head": [
+      {
+        "path": "micropython/src/lib/alif-security-toolkit",
+        "commit": "63698efe8567eed115fe620d5e5de75f460310d7"
+      },
+      {
+        "path": "micropython/src/lib/alif_ensemble-cmsis-dfp",
+        "commit": "04b3176a0031c945d4306db00663379e9b431e08"
+      },
+      {
+        "path": "micropython/src/lib/arduino-lib",
+        "commit": "8312406d6cd1a19683500f153b33fba7a8414127"
+      },
+      {
+        "path": "micropython/src/lib/asf4",
+        "commit": "84f56af13292d8f32c40acbd949bde698ddd4507"
+      },
+      {
+        "path": "micropython/src/lib/axtls",
+        "commit": "531cab9c278c947d268bd4c94ecab9153a961b43"
+      },
+      {
+        "path": "micropython/src/lib/berkeley-db-1.xx",
+        "commit": "85373b548f1fb0119a463582570b44189dfb09ae"
+      },
+      {
+        "path": "micropython/src/lib/btstack",
+        "commit": "77e752abd6a0992334047a48038a5a3960e5c6bc"
+      },
+      {
+        "path": "micropython/src/lib/cyw43-driver",
+        "commit": "dd7568229f3bf7a37737b9e1ef250c26efe75b23"
+      },
+      {
+        "path": "micropython/src/lib/fsp",
+        "commit": "e78939d32d1ccea9f0ba8bb42c51aceffd386b9b"
+      },
+      {
+        "path": "micropython/src/lib/libffi",
+        "commit": "3d0ce1e6fcf19f853894862abcbac0ae78a7be60"
+      },
+      {
+        "path": "micropython/src/lib/libhydrogen",
+        "commit": "5c5d513093075f7245ea522101b17c50aa579af2"
+      },
+      {
+        "path": "micropython/src/lib/libmetal",
+        "commit": "0cb7d293a7f25394a06847a28d0f0ace9862936e"
+      },
+      {
+        "path": "micropython/src/lib/lwip",
+        "commit": "0a0452b2c39bdd91e252aef045c115f88f6ca773"
+      },
+      {
+        "path": "micropython/src/lib/mbedtls",
+        "commit": "107ea89daaefb9867ea9121002fbbdf926780e98"
+      },
+      {
+        "path": "micropython/src/lib/micropython-lib",
+        "commit": "5b496e944ec045177afa1620920a168410b7f60b"
+      },
+      {
+        "path": "micropython/src/lib/mynewt-nimble",
+        "commit": "42849560ba7906f023f61e5f7ff3709ba2c1dfca"
+      },
+      {
+        "path": "micropython/src/lib/nrfx",
+        "commit": "7a4c9d946cf1801771fc180acdbf7b878f270093"
+      },
+      {
+        "path": "micropython/src/lib/nxp_driver",
+        "commit": "fa5a554c7944d2a196626f8d3631e44943f9abcc"
+      },
+      {
+        "path": "micropython/src/lib/open-amp",
+        "commit": "1904dee18da85400e72b8f55c5c99e872a486573"
+      },
+      {
+        "path": "micropython/src/lib/pico-sdk",
+        "commit": "bddd20f928ce76142793bef434d4f75f4af6e433"
+      },
+      {
+        "path": "micropython/src/lib/protobuf-c",
+        "commit": "abc67a11c6db271bedbb9f58be85d6f4e2ea8389"
+      },
+      {
+        "path": "micropython/src/lib/stm32lib",
+        "commit": "928df866e4d287ebc3c60726151513ebee609128"
+      },
+      {
+        "path": "micropython/src/lib/tinyusb",
+        "commit": "5217cee5de4cd555018da90f9f1bcc87fb1c1d3a"
+      },
+      {
+        "path": "micropython/src/lib/wiznet5k",
+        "commit": "0803fc519ad7227e841287fb3638d6c8b2f111a1"
+      }
+    ]
+  },
+  {
+    "source_url": "https://gitlab.com/why2025/team-badge/test-firmware",
+    "destination_name": "why2025-test-firmware",
+    "destination_url": "https://github.com/badge-gallery/why2025-test-firmware",
+    "license_url": "https://gitlab.com/why2025/team-badge/test-firmware/-/blob/main/LICENSE",
+    "checked_at": "2026-09-05T15:04:52.012182+00:00",
+    "status": "mirrored_verified",
+    "refs_match": true,
+    "actions_disabled": true,
+    "license_basis": "explicit root license reviewed; unchanged source-preserving copy only",
+    "source_ref_count": 7,
+    "source_default_branch": "main",
+    "lfs_limitations": "HEAD-only scan found no Git LFS pointer files.",
+    "submodule_limitations": "HEAD has no gitlink submodule entries.",
+    "created_in_run": true,
+    "destination_ref_count": 7,
+    "source_commit_count": 227,
+    "destination_commit_count": 227,
+    "default_branch": "main",
+    "bare_mirror_size_bytes": 4869099,
+    "lfs_pointer_paths_head": [],
+    "submodules_head_only": null,
+    "limitations_scope": "LFS and gitlink-submodule checks cover the default-branch HEAD only, not all historical refs.",
+    "submodule_gitlinks_head": []
+  },
+  {
+    "source_url": "https://gitlab.com/why2025/team-badge/firmware",
+    "destination_name": "why2025-firmware",
+    "destination_url": "https://github.com/badge-gallery/why2025-firmware",
+    "license_url": "https://gitlab.com/why2025/team-badge/firmware/-/blob/main/COPYING",
+    "checked_at": "2026-09-05T15:04:52.023622+00:00",
+    "status": "mirrored_verified",
+    "refs_match": true,
+    "actions_disabled": true,
+    "license_basis": "explicit root license reviewed; unchanged source-preserving copy only",
+    "source_ref_count": 23,
+    "source_default_branch": "main",
+    "lfs_limitations": "HEAD-only scan found no Git LFS pointer files.",
+    "submodule_limitations": "HEAD has no gitlink submodule entries.",
+    "created_in_run": true,
+    "destination_ref_count": 23,
+    "source_commit_count": 408,
+    "destination_commit_count": 408,
+    "default_branch": "main",
+    "bare_mirror_size_bytes": 42362911,
+    "lfs_pointer_paths_head": [],
+    "submodules_head_only": null,
+    "limitations_scope": "LFS and gitlink-submodule checks cover the default-branch HEAD only, not all historical refs.",
+    "submodule_gitlinks_head": []
+  },
+  {
+    "source_url": "https://gitlab.com/why2025/team-badge/Hardware",
+    "destination_name": "why2025-hardware",
+    "destination_url": "https://github.com/badge-gallery/why2025-hardware",
+    "license_url": "https://gitlab.com/why2025/team-badge/Hardware/-/blob/main/LICENSE",
+    "checked_at": "2026-09-05T15:04:52.029122+00:00",
+    "status": "mirrored_verified",
+    "refs_match": true,
+    "actions_disabled": true,
+    "license_basis": "explicit root license reviewed; unchanged source-preserving copy only",
+    "source_ref_count": 5,
+    "source_default_branch": "main",
+    "lfs_limitations": "HEAD-only scan found no Git LFS pointer files.",
+    "submodule_limitations": "HEAD has no gitlink submodule entries.",
+    "created_in_run": true,
+    "destination_ref_count": 5,
+    "source_commit_count": 116,
+    "destination_commit_count": 116,
+    "default_branch": "main",
+    "bare_mirror_size_bytes": 190765441,
+    "lfs_pointer_paths_head": [],
+    "submodules_head_only": null,
+    "limitations_scope": "LFS and gitlink-submodule checks cover the default-branch HEAD only, not all historical refs.",
+    "submodule_gitlinks_head": []
+  },
+  {
+    "source_url": "https://gitlab.com/why2025/team-badge/badgehub-frontend",
+    "destination_name": "why2025-badgehub-frontend",
+    "destination_url": "https://github.com/badge-gallery/why2025-badgehub-frontend",
+    "license_url": "https://gitlab.com/why2025/team-badge/badgehub-frontend/-/blob/main/LICENSE",
+    "checked_at": "2026-09-05T15:04:52.034254+00:00",
+    "status": "mirrored_verified",
+    "refs_match": true,
+    "actions_disabled": true,
+    "license_basis": "explicit root license reviewed; unchanged source-preserving copy only",
+    "source_ref_count": 13,
+    "source_default_branch": "main",
+    "lfs_limitations": "HEAD-only scan found no Git LFS pointer files.",
+    "submodule_limitations": "HEAD has no gitlink submodule entries.",
+    "created_in_run": true,
+    "destination_ref_count": 13,
+    "source_commit_count": 192,
+    "destination_commit_count": 192,
+    "default_branch": "main",
+    "bare_mirror_size_bytes": 425882,
+    "lfs_pointer_paths_head": [],
+    "submodules_head_only": null,
+    "limitations_scope": "LFS and gitlink-submodule checks cover the default-branch HEAD only, not all historical refs.",
+    "submodule_gitlinks_head": []
+  },
+  {
+    "source_url": "https://gitlab.com/why2025/team-badge/badgehub-api",
+    "destination_name": "why2025-badgehub-api",
+    "destination_url": "https://github.com/badge-gallery/why2025-badgehub-api",
+    "license_url": "https://gitlab.com/why2025/team-badge/badgehub-api/-/blob/main/LICENSE",
+    "checked_at": "2026-09-05T15:04:52.039516+00:00",
+    "status": "mirrored_verified",
+    "refs_match": true,
+    "actions_disabled": true,
+    "license_basis": "explicit root license reviewed; unchanged source-preserving copy only",
+    "source_ref_count": 159,
+    "source_default_branch": "main",
+    "lfs_limitations": "HEAD-only scan found no Git LFS pointer files.",
+    "submodule_limitations": "HEAD has no gitlink submodule entries.",
+    "created_in_run": true,
+    "destination_ref_count": 159,
+    "source_commit_count": 1275,
+    "destination_commit_count": 1275,
+    "default_branch": "main",
+    "bare_mirror_size_bytes": 28310172,
+    "lfs_pointer_paths_head": [],
+    "submodules_head_only": null,
+    "limitations_scope": "LFS and gitlink-submodule checks cover the default-branch HEAD only, not all historical refs.",
+    "submodule_gitlinks_head": []
+  },
+  {
+    "source_url": "https://gitlab.com/why2025/team-badge/badgehub-infra",
+    "destination_name": "why2025-badgehub-infra",
+    "destination_url": "https://github.com/badge-gallery/why2025-badgehub-infra",
+    "license_url": "https://gitlab.com/why2025/team-badge/badgehub-infra/-/blob/main/LICENSE",
+    "checked_at": "2026-09-05T15:04:52.044767+00:00",
+    "status": "mirrored_verified",
+    "refs_match": true,
+    "actions_disabled": true,
+    "license_basis": "explicit root license reviewed; unchanged source-preserving copy only",
+    "source_ref_count": 10,
+    "source_default_branch": "main",
+    "lfs_limitations": "HEAD-only scan found no Git LFS pointer files.",
+    "submodule_limitations": "HEAD has no gitlink submodule entries.",
+    "created_in_run": true,
+    "destination_ref_count": 10,
+    "source_commit_count": 152,
+    "destination_commit_count": 152,
+    "default_branch": "main",
+    "bare_mirror_size_bytes": 606723,
+    "lfs_pointer_paths_head": [],
+    "submodules_head_only": null,
+    "limitations_scope": "LFS and gitlink-submodule checks cover the default-branch HEAD only, not all historical refs.",
+    "submodule_gitlinks_head": []
+  },
+  {
+    "source_url": "https://codeberg.org/Ranzbak/bornhack-firmware-2026",
+    "destination_name": "bornhack-2026-firmware",
+    "destination_url": "https://github.com/badge-gallery/bornhack-2026-firmware",
+    "license_url": "https://codeberg.org/Ranzbak/bornhack-firmware-2026/src/branch/main/License.md",
+    "checked_at": "2026-09-05T15:04:52.050003+00:00",
+    "status": "mirrored_verified",
+    "refs_match": true,
+    "actions_disabled": true,
+    "license_basis": "Apache-2.0 for original project code; License.md preserves third-party carve-out and .gitmodules preserves third-party source URLs and pinned commits.",
+    "third_party_scope": "The source mirror contains gitlink pointers only for vendor/meshcore (8171d0048229a89723cc039f1506116c91b92a28), vendor/meshcore-companion (e526ab313af3367b30f67755450679408c2de23a), and vendor/ssd1675 (863b1b549425c7dd6afaeb9652eb34d921598d7a); their contents were not copied.",
+    "source_ref_count": 25,
+    "source_default_branch": "main",
+    "created_in_run": true,
+    "destination_ref_count": 25,
+    "source_commit_count": 724,
+    "destination_commit_count": 724,
+    "default_branch": "main",
+    "bare_mirror_size_bytes": 2947266,
+    "lfs_limitations": "HEAD-only scan found no Git LFS pointer files.",
+    "submodule_limitations": "HEAD contains gitlink submodule entries; referenced dependency contents were not copied.",
+    "limitations_scope": "LFS and gitlink-submodule checks cover the default-branch HEAD only, not all historical refs.",
+    "submodule_gitlinks_head": [
+      {
+        "path": "vendor/meshcore",
+        "commit": "8171d0048229a89723cc039f1506116c91b92a28"
+      },
+      {
+        "path": "vendor/meshcore-companion",
+        "commit": "e526ab313af3367b30f67755450679408c2de23a"
+      },
+      {
+        "path": "vendor/ssd1675",
+        "commit": "863b1b549425c7dd6afaeb9652eb34d921598d7a"
+      }
+    ]
   }
 ]
