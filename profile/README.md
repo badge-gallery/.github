@@ -4,7 +4,7 @@
 
 **The hardware, firmware and stories behind hacker conference badges worldwide.**
 
-[Explore the catalogue](https://badge.gallery/badges) · [Browse by country](https://badge.gallery/countries) · [Follow the timeline](https://badge.gallery/timeline) · [How we document](https://badge.gallery/methodology)
+[Explore the catalogue](https://badge.gallery/badges) · [Browse by country](https://badge.gallery/countries) · [Follow the timeline](https://badge.gallery/timeline) · [How we document](https://badge.gallery/methodology) · [Repository inventory](https://github.com/badge-gallery/.github/tree/main/preservation)
 
 Hacker badges carry a piece of their event with them: a radio experiment, a tiny synthesizer, a puzzle, a game, or a platform people keep building on long after the conference ends.
 
@@ -12,7 +12,7 @@ Hacker badges carry a piece of their event with them: a radio experiment, a tiny
 
 ## Keeping badges usable
 
-This organization is the home for our developing firmware preservation and restoration effort. We are starting with repository discovery and license review. Mirrors, reproducible builds and hardware-tested restorations will be published as they become available.
+This organization is the home for our developing firmware preservation and restoration effort. Native GitHub forks have been preserved under readable project and component names; browse the [repository inventory](https://github.com/badge-gallery/.github/tree/main/preservation) for their upstream source mapping and collection status. Builds and hardware restorations have not yet been tested. Broader artifact preservation work will be added in the future.
 
 Our approach:
 
