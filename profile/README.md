@@ -10,7 +10,7 @@ Hacker badges carry a piece of their event with them: a radio experiment, a tiny
 
 ## Keeping badges usable
 
-This organization is the home for our developing firmware preservation and restoration effort. Native GitHub forks have been preserved under readable project and component names; browse the [repository inventory](https://github.com/badge-gallery/.github/tree/main/preservation) for their upstream source mapping and collection status. Builds and hardware restorations have not yet been tested. Broader artifact preservation work will be added in the future.
+This organization is the home for our developing firmware preservation and restoration effort. Native GitHub forks and explicitly licensed source mirrors have been preserved under readable project and component names; browse the [repository inventory](https://github.com/badge-gallery/.github/tree/main/preservation) for their upstream source mapping and collection status. Builds and hardware restorations have not yet been tested. Broader artifact preservation work will be added in the future.
 
 Our approach:
 
