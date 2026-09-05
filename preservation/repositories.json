@@ -1,6 +1,6 @@
 {
   "candidate_count": 340,
-  "generated_at": "2026-09-05T14:57:24+00:00",
+  "generated_at": "2026-09-05T15:09:49+00:00",
   "repositories": [
     {
       "actions_disabled": true,
@@ -3277,7 +3277,7 @@
       "preservation_url": "https://github.com/badge-gallery/badge-controller",
       "refs_checked_at": "2026-09-05T14:43:29.193001+00:00",
       "repository": "double-thinker/badge_controller",
-      "repository_name": "badge-controller",
+      "repository_name": "rootedcon-badge-controller",
       "source_references": [
         "https://github.com/double-thinker/badge_controller"
       ],
@@ -6173,7 +6173,7 @@
       "preservation_url": "https://github.com/badge-gallery/esp",
       "refs_checked_at": "2026-09-05T14:57:21.376539+00:00",
       "repository": "ickfosec/esp",
-      "repository_name": "esp",
+      "repository_name": "ickfosec-esp",
       "source_references": [
         "https://github.com/ickfosec/esp",
         "https://github.com/ickfosec/esp/blob/main/GrrCon%202024/Backpack%20of%20Shame/BackpackofShame.ino",
@@ -6429,14 +6429,14 @@
     },
     {
       "actions_disabled": true,
-      "advertised_refs_match": null,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/brucon-2018-badge"
       ],
       "badges": [
         "brucon-2018-badge"
       ],
-      "branch_count": null,
+      "branch_count": 2,
       "canonical_repository": "Jegeva/BruCONbadge2018",
       "collected_at": "2026-09-05T14:57:10.788229+00:00",
       "collected_status": "verified fork",
@@ -6446,7 +6446,7 @@
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
       "preservation_url": "https://github.com/badge-gallery/bruconbadge2018",
-      "refs_checked_at": null,
+      "refs_checked_at": "2026-09-05T15:01:31.629960+00:00",
       "repository": "Jegeva/BruCONbadge2018",
       "repository_name": "bruconbadge2018",
       "source_references": [
@@ -6455,62 +6455,62 @@
         "https://github.com/Jegeva/BruCONbadge2018/tree/master/pcb",
         "https://github.com/Jegeva/BruCONbadge2018/tree/master/server"
       ],
-      "tag_count": null,
+      "tag_count": 1,
       "upstream_commit": "8e1f3a2b1564e61c484eb83ffc35936391fe0763",
       "upstream_url": "https://github.com/Jegeva/BruCONbadge2018",
       "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/x-ctf-2016-badge"
       ],
       "badges": [
         "x-ctf-2016-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "jellyjellyrobot/neander",
-      "collected_at": "2026-09-05T14:16:01.351308+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T14:57:21.010548+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "866e28c5029eb4f5c0cc1fdb3a8f5f6acc7becd8",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/neander",
+      "refs_checked_at": "2026-09-05T15:01:31.630156+00:00",
       "repository": "jellyjellyrobot/neander",
       "repository_name": "neander",
       "source_references": [
         "https://github.com/jellyjellyrobot/neander",
         "https://github.com/jellyjellyrobot/neander/blob/master/Hardware/Readme.md"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "866e28c5029eb4f5c0cc1fdb3a8f5f6acc7becd8",
       "upstream_url": "https://github.com/jellyjellyrobot/neander",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/hitcon-2025-pcb-badge"
       ],
       "badges": [
         "hitcon-2025-pcb-badge"
       ],
-      "branch_count": null,
+      "branch_count": 134,
       "canonical_repository": "john0312/hitcon-pcb-badge",
-      "collected_at": "2026-09-05T14:17:26.020649+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T14:57:30.818850+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "e9586dee1ce01fc967b8d6e905921c1019e4633c",
+      "head_matches": true,
       "license_detected": "BSD-3-Clause",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/hitcon-pcb-badge",
+      "refs_checked_at": "2026-09-05T15:01:31.630263+00:00",
       "repository": "john0312/hitcon-pcb-badge",
       "repository_name": "hitcon-pcb-badge",
       "source_references": [
@@ -6519,31 +6519,31 @@
         "https://github.com/john0312/hitcon-pcb-badge/blob/main/pcb/kicad/pcb_badge/jlcpcb/production_files/BOM-pcb_badge.csv",
         "https://github.com/john0312/hitcon-pcb-badge/blob/main/pcb/kicad/pcb_badge/jlcpcb/production_notes.txt"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 7,
+      "upstream_commit": "e9586dee1ce01fc967b8d6e905921c1019e4633c",
       "upstream_url": "https://github.com/john0312/hitcon-pcb-badge",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/hackconrd-2024-attiny85-badge"
       ],
       "badges": [
         "hackconrd-2024-attiny85-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "jrgdiaz/HHW_HackConRD2024",
-      "collected_at": "2026-09-05T14:15:35.789422+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T14:57:51.336372+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "04938863a939d0658f647aeab52988a5e23a2b7b",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/hhw-hackconrd2024",
+      "refs_checked_at": "2026-09-05T15:01:31.630331+00:00",
       "repository": "jrgdiaz/HHW_HackConRD2024",
       "repository_name": "hhw-hackconrd2024",
       "source_references": [
@@ -6553,31 +6553,31 @@
         "https://github.com/jrgdiaz/HHW_HackConRD2024/blob/main/README.md",
         "https://github.com/jrgdiaz/HHW_HackConRD2024/tree/main/BadgeFirmwareCollection"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "04938863a939d0658f647aeab52988a5e23a2b7b",
       "upstream_url": "https://github.com/jrgdiaz/HHW_HackConRD2024",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/overglade-2026-zero-power-nfc-eink-badge"
       ],
       "badges": [
         "overglade-2026-zero-power-nfc-eink-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "KaiPereira/Overglade-Badges",
-      "collected_at": "2026-09-05T14:16:06.524882+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T14:58:01.296575+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "4d171fd0a162d514f2c29e441e6b3a9197a3f703",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/overglade-badges",
+      "refs_checked_at": "2026-09-05T15:01:32.646258+00:00",
       "repository": "KaiPereira/Overglade-Badges",
       "repository_name": "overglade-badges",
       "source_references": [
@@ -6587,61 +6587,61 @@
         "https://github.com/KaiPereira/Overglade-Badges/tree/master/PCB",
         "https://github.com/KaiPereira/Overglade-Badges/tree/master/firmware"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "4d171fd0a162d514f2c29e441e6b3a9197a3f703",
       "upstream_url": "https://github.com/KaiPereira/Overglade-Badges",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/bornhack-2022-game-on"
       ],
       "badges": [
         "bornhack-2022-game-on"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "kbeckmann/bornhack-badge2022-audiovideo",
-      "collected_at": "2026-09-05T14:17:31.361557+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T14:58:22.616522+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "96cd28431a3e7b0d5d447c5b9d6a77689f485828",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/bornhack-badge2022-audiovideo",
+      "refs_checked_at": "2026-09-05T15:01:32.648772+00:00",
       "repository": "kbeckmann/bornhack-badge2022-audiovideo",
       "repository_name": "bornhack-badge2022-audiovideo",
       "source_references": [
         "https://github.com/kbeckmann/bornhack-badge2022-audiovideo"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "96cd28431a3e7b0d5d447c5b9d6a77689f485828",
       "upstream_url": "https://github.com/kbeckmann/bornhack-badge2022-audiovideo",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/not-just-a-crosswalk-sao-def-con-34"
       ],
       "badges": [
         "not-just-a-crosswalk-sao-def-con-34"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "keeloi79/not-a-crosswalk-sao",
-      "collected_at": "2026-09-05T14:15:41.212133+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T14:58:31.100310+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "f2360f5ec121552c80bbdc255762a502ed598e0a",
+      "head_matches": true,
       "license_detected": "GPL-3.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/not-a-crosswalk-sao",
+      "refs_checked_at": "2026-09-05T15:01:32.650696+00:00",
       "repository": "keeloi79/not-a-crosswalk-sao",
       "repository_name": "not-a-crosswalk-sao",
       "source_references": [
@@ -6649,153 +6649,153 @@
         "https://github.com/keeloi79/not-a-crosswalk-sao/blob/main/CITATION.md",
         "https://github.com/keeloi79/not-a-crosswalk-sao/blob/main/LICENSE.md"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "f2360f5ec121552c80bbdc255762a502ed598e0a",
       "upstream_url": "https://github.com/keeloi79/not-a-crosswalk-sao",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/kernelcon-2021-hacker-hotkey"
       ],
       "badges": [
         "kernelcon-2021-hacker-hotkey"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "kernelcon/hacker-hotkey",
-      "collected_at": "2026-09-05T14:16:11.960368+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T14:58:41.282082+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "192c1bbf049df482199ffe3523567cb96ea38265",
+      "head_matches": true,
       "license_detected": "Apache-2.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/hacker-hotkey",
+      "refs_checked_at": "2026-09-05T15:01:32.737822+00:00",
       "repository": "kernelcon/hacker-hotkey",
       "repository_name": "hacker-hotkey",
       "source_references": [
         "https://github.com/kernelcon/hacker-hotkey",
         "https://raw.githubusercontent.com/kernelcon/hacker-hotkey/main/README.md"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "192c1bbf049df482199ffe3523567cb96ea38265",
       "upstream_url": "https://github.com/kernelcon/hacker-hotkey",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/39c3-cdc-badge"
       ],
       "badges": [
         "39c3-cdc-badge"
       ],
-      "branch_count": null,
+      "branch_count": 2,
       "canonical_repository": "krim404/cdc-badge-os",
-      "collected_at": "2026-09-05T14:17:34.945686+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T14:58:51.860902+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "20ff9d60545da8ac51afd5ae1a258facb368f6a7",
+      "head_matches": true,
       "license_detected": "GPL-3.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/cdc-badge-os",
+      "refs_checked_at": "2026-09-05T15:01:33.644501+00:00",
       "repository": "krim404/cdc-badge-os",
       "repository_name": "cdc-badge-os",
       "source_references": [
         "https://github.com/krim404/cdc-badge-os",
         "https://raw.githubusercontent.com/krim404/cdc-badge-os/main/README.md"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 17,
+      "upstream_commit": "20ff9d60545da8ac51afd5ae1a258facb368f6a7",
       "upstream_url": "https://github.com/krim404/cdc-badge-os",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/def-con-30-badge"
       ],
       "badges": [
         "def-con-30-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "Kybr-git/DC30-Badge-Challenge-Writeup",
-      "collected_at": "2026-09-05T14:15:46.614551+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T14:59:01.446757+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "f800fae3b566562fb2ef9467f7b9b732e08d9936",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/dc30-badge-challenge-writeup",
+      "refs_checked_at": "2026-09-05T15:01:33.651783+00:00",
       "repository": "Kybr-git/DC30-Badge-Challenge-Writeup",
       "repository_name": "dc30-badge-challenge-writeup",
       "source_references": [
         "https://raw.githubusercontent.com/Kybr-git/DC30-Badge-Challenge-Writeup/main/README.md"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "f800fae3b566562fb2ef9467f7b9b732e08d9936",
       "upstream_url": "https://github.com/Kybr-git/DC30-Badge-Challenge-Writeup",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/hitb-cyberweek-2021-packet-hack-badge"
       ],
       "badges": [
         "hitb-cyberweek-2021-packet-hack-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "lanrat/PacketHackVillageHitBBadge2021",
-      "collected_at": "2026-09-05T14:16:17.334190+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T14:59:22.373142+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "a1c89b14cb12bfe3fdabdd830d150fb66515bf57",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/packethackvillagehitbbadge2021",
+      "refs_checked_at": "2026-09-05T15:01:33.678467+00:00",
       "repository": "lanrat/PacketHackVillageHitBBadge2021",
       "repository_name": "packethackvillagehitbbadge2021",
       "source_references": [
         "https://github.com/lanrat/PacketHackVillageHitBBadge2021"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "a1c89b14cb12bfe3fdabdd830d150fb66515bf57",
       "upstream_url": "https://github.com/lanrat/PacketHackVillageHitBBadge2021",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/def-con-34-silent-disco-badge"
       ],
       "badges": [
         "def-con-34-silent-disco-badge"
       ],
-      "branch_count": null,
+      "branch_count": 6,
       "canonical_repository": "LastZactionHero/defcon-silent-disco",
-      "collected_at": "2026-09-05T14:17:38.563159+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T14:59:32.439499+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "dcd84ce43b92312c0434539d866c13e247f2cf4b",
+      "head_matches": true,
       "license_detected": "NOASSERTION",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/defcon-silent-disco",
+      "refs_checked_at": "2026-09-05T15:01:33.748414+00:00",
       "repository": "LastZactionHero/defcon-silent-disco",
       "repository_name": "defcon-silent-disco",
       "source_references": [
@@ -6806,31 +6806,31 @@
         "https://github.com/LastZactionHero/defcon-silent-disco/blob/dcd84ce43b92312c0434539d866c13e247f2cf4b/firmware/BADGE.md",
         "https://github.com/LastZactionHero/defcon-silent-disco/commit/0dbfae1149fe9ee85a30c81170c73e0354bbf4f9"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "dcd84ce43b92312c0434539d866c13e247f2cf4b",
       "upstream_url": "https://github.com/LastZactionHero/defcon-silent-disco",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/area41-2018-proteus-badge"
       ],
       "badges": [
         "area41-2018-proteus-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "le-krogoth/proteus",
-      "collected_at": "2026-09-05T14:15:52.122277+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T14:59:41.892836+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "90320ce9d2ae2692bdf598c859ded65ed47183f2",
+      "head_matches": true,
       "license_detected": "AGPL-3.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/proteus",
+      "refs_checked_at": "2026-09-05T15:01:34.706668+00:00",
       "repository": "le-krogoth/proteus",
       "repository_name": "proteus",
       "source_references": [
@@ -6839,62 +6839,62 @@
         "https://github.com/le-krogoth/proteus/blob/master/README.md",
         "https://github.com/le-krogoth/proteus/blob/master/platformio.ini"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "90320ce9d2ae2692bdf598c859ded65ed47183f2",
       "upstream_url": "https://github.com/le-krogoth/proteus",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/volatile-organic-canary-sao-def-con-34"
       ],
       "badges": [
         "volatile-organic-canary-sao-def-con-34"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "lepi-labs/5-dc34-canary-badge",
-      "collected_at": "2026-09-05T14:16:22.833163+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T14:59:52.448674+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "7850ed394438a1c7747d9b6c2bba15476609d8c4",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/5-dc34-canary-badge",
+      "refs_checked_at": "2026-09-05T15:01:34.714799+00:00",
       "repository": "lepi-labs/5-dc34-canary-badge",
       "repository_name": "5-dc34-canary-badge",
       "source_references": [
         "https://github.com/lepi-labs/5-dc34-canary-badge",
         "https://github.com/lepi-labs/5-dc34-canary-badge/releases"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 1,
+      "upstream_commit": "7850ed394438a1c7747d9b6c2bba15476609d8c4",
       "upstream_url": "https://github.com/lepi-labs/5-dc34-canary-badge",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/hrv-sstv-badge-def-con-34"
       ],
       "badges": [
         "hrv-sstv-badge-def-con-34"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "livitup/hrv-sstv-badge",
-      "collected_at": "2026-09-05T14:17:40.435059+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:00:01.208347+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "a63e8dc11682acc41b392638cefb1f8d7d6e12f1",
+      "head_matches": true,
       "license_detected": "MIT",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/hrv-sstv-badge",
+      "refs_checked_at": "2026-09-05T15:01:34.747806+00:00",
       "repository": "livitup/hrv-sstv-badge",
       "repository_name": "hrv-sstv-badge",
       "source_references": [
@@ -6904,45 +6904,45 @@
         "https://github.com/livitup/hrv-sstv-badge/blob/a63e8dc11682acc41b392638cefb1f8d7d6e12f1/docs/project-status.md",
         "https://github.com/livitup/hrv-sstv-badge/tree/a63e8dc11682acc41b392638cefb1f8d7d6e12f1/hardware"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "a63e8dc11682acc41b392638cefb1f8d7d6e12f1",
       "upstream_url": "https://github.com/livitup/hrv-sstv-badge",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/ekoparty-2025-badge"
       ],
       "badges": [
         "ekoparty-2025-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "lucasleale/Ekoparty_Badge_2025",
-      "collected_at": "2026-09-05T14:15:57.599127+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:00:11.722252+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "c553f8e63a877224c8a56b74b50887558d999309",
+      "head_matches": true,
       "license_detected": "GPL-3.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/ekoparty-badge-2025",
+      "refs_checked_at": "2026-09-05T15:01:34.751310+00:00",
       "repository": "lucasleale/Ekoparty_Badge_2025",
       "repository_name": "ekoparty-badge-2025",
       "source_references": [
         "https://github.com/lucasleale/Ekoparty_Badge_2025",
         "https://github.com/lucasleale/Ekoparty_Badge_2025/blob/main/2D_PCB1_2025-10-20.png"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "c553f8e63a877224c8a56b74b50887558d999309",
       "upstream_url": "https://github.com/lucasleale/Ekoparty_Badge_2025",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/saintcon-2017-raspberry-pi-badge",
         "https://badge.gallery/badges/saintcon-2020-badge-and-minibadge-kit",
@@ -6959,48 +6959,48 @@
         "saintcon-2023-minibadge-collection",
         "saintcon-2024-minibadge-trading-collection"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "lukejenkins/minibadge",
-      "collected_at": "2026-09-05T14:16:28.178438+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:00:21.497832+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "7b725c3e5981bc1b6ca61dbe136d5b692440d16b",
+      "head_matches": true,
       "license_detected": "Apache-2.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/minibadge",
+      "refs_checked_at": "2026-09-05T15:01:35.741630+00:00",
       "repository": "lukejenkins/minibadge",
       "repository_name": "minibadge",
       "source_references": [
         "https://github.com/lukejenkins/minibadge",
         "https://raw.githubusercontent.com/lukejenkins/minibadge/master/README.md"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 1,
+      "upstream_commit": "7b725c3e5981bc1b6ca61dbe136d5b692440d16b",
       "upstream_url": "https://github.com/lukejenkins/minibadge",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/agency-sao-badge-v2-def-con-34"
       ],
       "badges": [
         "agency-sao-badge-v2-def-con-34"
       ],
-      "branch_count": null,
+      "branch_count": 2,
       "canonical_repository": "MadmanTimmy3241/Defcon-badge-V2-RP2040",
-      "collected_at": "2026-09-05T14:17:42.168275+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:00:31.294264+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "8a90b64cc5414b71c5d6a727bd0039d661f969b2",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/defcon-badge-v2-rp2040",
+      "refs_checked_at": "2026-09-05T15:01:35.756393+00:00",
       "repository": "MadmanTimmy3241/Defcon-badge-V2-RP2040",
       "repository_name": "defcon-badge-v2-rp2040",
       "source_references": [
@@ -7008,31 +7008,31 @@
         "https://github.com/MadmanTimmy3241/Defcon-badge-V2-RP2040/commit/8a90b64cc5414b71c5d6a727bd0039d661f969b2",
         "https://github.com/MadmanTimmy3241/Defcon-badge-V2-RP2040/tree/8a90b64cc5414b71c5d6a727bd0039d661f969b2"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "8a90b64cc5414b71c5d6a727bd0039d661f969b2",
       "upstream_url": "https://github.com/MadmanTimmy3241/Defcon-badge-V2-RP2040",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/workday-devcon-2026-blinky-2350-badge"
       ],
       "badges": [
         "workday-devcon-2026-blinky-2350-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "mainaksarkar15/devcon-badge-pet",
-      "collected_at": "2026-09-05T14:16:02.894351+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:00:51.376884+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "87de56e0201a11288bfe4a9c501f3a1b5cfb70d7",
+      "head_matches": true,
       "license_detected": "MIT",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/devcon-badge-pet",
+      "refs_checked_at": "2026-09-05T15:01:35.762270+00:00",
       "repository": "mainaksarkar15/devcon-badge-pet",
       "repository_name": "devcon-badge-pet",
       "source_references": [
@@ -7040,123 +7040,123 @@
         "https://github.com/mainaksarkar15/devcon-badge-pet/blob/main/LICENSE",
         "https://github.com/mainaksarkar15/devcon-badge-pet/blob/main/README.md"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "87de56e0201a11288bfe4a9c501f3a1b5cfb70d7",
       "upstream_url": "https://github.com/mainaksarkar15/devcon-badge-pet",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/def-con-34-badge"
       ],
       "badges": [
         "def-con-34-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "MakeItHackin/DC34AnyAnglePirateWheelBadge",
-      "collected_at": "2026-09-05T14:16:33.821467+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:01:11.237593+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "b7c276fe6113aa76c5e9e58537e25db513260210",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/dc34anyanglepiratewheelbadge",
+      "refs_checked_at": "2026-09-05T15:01:35.764333+00:00",
       "repository": "MakeItHackin/DC34AnyAnglePirateWheelBadge",
       "repository_name": "dc34anyanglepiratewheelbadge",
       "source_references": [
         "https://github.com/MakeItHackin/DC34AnyAnglePirateWheelBadge",
         "https://github.com/MakeItHackin/DC34AnyAnglePirateWheelBadge/blob/main/README.md"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "b7c276fe6113aa76c5e9e58537e25db513260210",
       "upstream_url": "https://github.com/MakeItHackin/DC34AnyAnglePirateWheelBadge",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/root-access-sao-def-con-34"
       ],
       "badges": [
         "root-access-sao-def-con-34"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "MakeItHackin/RootAccess",
-      "collected_at": "2026-09-05T14:17:43.979771+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:01:21.842332+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "3f852e9d3070644a0ed890c8fee2c88dec6ae4cf",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/rootaccess",
+      "refs_checked_at": "2026-09-05T15:01:36.777591+00:00",
       "repository": "MakeItHackin/RootAccess",
       "repository_name": "rootaccess",
       "source_references": [
         "https://github.com/MakeItHackin/RootAccess"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "3f852e9d3070644a0ed890c8fee2c88dec6ae4cf",
       "upstream_url": "https://github.com/MakeItHackin/RootAccess",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/original-series-tricorder-badge-def-con-34"
       ],
       "badges": [
         "original-series-tricorder-badge-def-con-34"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "MakeItHackin/tricorderSAO",
-      "collected_at": "2026-09-05T14:16:08.316758+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:01:31.391270+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "da9edbf5b69510cf06efeffecfecef8659e15a7b",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/tricordersao",
+      "refs_checked_at": "2026-09-05T15:09:36.868311+00:00",
       "repository": "MakeItHackin/tricorderSAO",
       "repository_name": "tricordersao",
       "source_references": [
         "https://github.com/MakeItHackin/tricorderSAO",
         "https://github.com/MakeItHackin/tricorderSAO/blob/main/README.md"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "da9edbf5b69510cf06efeffecfecef8659e15a7b",
       "upstream_url": "https://github.com/MakeItHackin/tricorderSAO",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/bsides-vancouver-2025-electronic-badge"
       ],
       "badges": [
         "bsides-vancouver-2025-electronic-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "maltchev/bsides-vancouver-badge",
-      "collected_at": "2026-09-05T14:16:39.050841+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:01:51.203267+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "b77e51cbc91b8d834cb970a318f47abc4d5fde80",
+      "head_matches": true,
       "license_detected": "NOASSERTION",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/bsides-vancouver-badge",
+      "refs_checked_at": "2026-09-05T15:09:36.869423+00:00",
       "repository": "maltchev/bsides-vancouver-badge",
       "repository_name": "bsides-vancouver-badge",
       "source_references": [
@@ -7167,91 +7167,91 @@
         "https://raw.githubusercontent.com/maltchev/bsides-vancouver-badge/main/README.md",
         "https://raw.githubusercontent.com/maltchev/bsides-vancouver-badge/main/docs/HARDWARE.md"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "b77e51cbc91b8d834cb970a318f47abc4d5fde80",
       "upstream_url": "https://github.com/maltchev/bsides-vancouver-badge",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/lca-2016-esplant"
       ],
       "badges": [
         "lca-2016-esplant"
       ],
-      "branch_count": null,
+      "branch_count": 6,
       "canonical_repository": "marcmerlin/ESPlant",
-      "collected_at": "2026-09-05T14:17:45.817771+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:02:01.123380+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "79be77c336190c67c9b386e365815e5339c91150",
+      "head_matches": true,
       "license_detected": "NOASSERTION",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/marcmerlin-esplant",
+      "refs_checked_at": "2026-09-05T15:09:36.869725+00:00",
       "repository": "marcmerlin/ESPlant",
       "repository_name": "marcmerlin-esplant",
       "source_references": [
         "https://github.com/marcmerlin/ESPlant"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "79be77c336190c67c9b386e365815e5339c91150",
       "upstream_url": "https://github.com/marcmerlin/ESPlant",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/lca-2017-iotuz-esp32-board"
       ],
       "badges": [
         "lca-2017-iotuz-esp32-board"
       ],
-      "branch_count": null,
+      "branch_count": 2,
       "canonical_repository": "marcmerlin/IoTuz",
-      "collected_at": "2026-09-05T14:16:13.679907+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:02:11.897760+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "95f53be6569c68f7fbef491bb36082870f82d629",
+      "head_matches": true,
       "license_detected": "Apache-2.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/iotuz",
+      "refs_checked_at": "2026-09-05T15:09:36.869804+00:00",
       "repository": "marcmerlin/IoTuz",
       "repository_name": "iotuz",
       "source_references": [
         "https://github.com/marcmerlin/IoTuz"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 2,
+      "upstream_commit": "95f53be6569c68f7fbef491bb36082870f82d629",
       "upstream_url": "https://github.com/marcmerlin/IoTuz",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/mhv-dc33-differential-destroyer"
       ],
       "badges": [
         "mhv-dc33-differential-destroyer"
       ],
-      "branch_count": null,
+      "branch_count": 3,
       "canonical_repository": "Maritime-Hacking-Village/Badge-2025",
-      "collected_at": "2026-09-05T14:16:44.401656+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:02:21.123885+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "f1423bbe75072e78b7c40da30361d49159f5c3b7",
+      "head_matches": true,
       "license_detected": "CERN-OHL-W-2.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/maritime-hacking-village-2025",
+      "refs_checked_at": "2026-09-05T15:09:37.914315+00:00",
       "repository": "Maritime-Hacking-Village/Badge-2025",
       "repository_name": "maritime-hacking-village-2025",
       "source_references": [
@@ -7260,91 +7260,91 @@
         "https://raw.githubusercontent.com/Maritime-Hacking-Village/Badge-2025/main/LICENSE",
         "https://raw.githubusercontent.com/Maritime-Hacking-Village/Badge-2025/main/README.md"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "f1423bbe75072e78b7c40da30361d49159f5c3b7",
       "upstream_url": "https://github.com/Maritime-Hacking-Village/Badge-2025",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/jawncon-0x1-modem-badge"
       ],
       "badges": [
         "jawncon-0x1-modem-badge"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 1,
+      "canonical_repository": "mecparts/RetroWiFiModem",
+      "collected_at": "2026-09-05T15:02:31.079579+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
-      "license_detected": null,
+      "fork_commit": "93ae395d948b36fcf846eda8158dcae77d6c4593",
+      "head_matches": true,
+      "license_detected": "GPL-3.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/retrowifimodem",
+      "refs_checked_at": "2026-09-05T15:09:37.917222+00:00",
       "repository": "mecparts/RetroWiFiModem",
       "repository_name": "retrowifimodem",
       "source_references": [
         "https://github.com/mecparts/RetroWiFiModem"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 1,
+      "upstream_commit": "93ae395d948b36fcf846eda8158dcae77d6c4593",
       "upstream_url": "https://github.com/mecparts/RetroWiFiModem",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/avtokyo-2015-electrical-badge"
       ],
       "badges": [
         "avtokyo-2015-electrical-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "mikodayo/AVT15",
-      "collected_at": "2026-09-05T14:16:19.122947+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:02:41.075581+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "1a52346f5637010dcae64ed6a785c403ed8c6cd1",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/avt15",
+      "refs_checked_at": "2026-09-05T15:09:37.925790+00:00",
       "repository": "mikodayo/AVT15",
       "repository_name": "avt15",
       "source_references": [
         "https://github.com/mikodayo/AVT15/blob/master/AVT15.ino"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "1a52346f5637010dcae64ed6a785c403ed8c6cd1",
       "upstream_url": "https://github.com/mikodayo/AVT15",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/toorcon-14-rfcat-badge"
       ],
       "badges": [
         "toorcon-14-rfcat-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "mossmann/cc11xx",
-      "collected_at": "2026-09-05T14:16:49.829995+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:02:51.475592+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "3fe05d291192d8e649b46f5a4bb2d57b25eff836",
+      "head_matches": true,
       "license_detected": "GPL-2.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/cc11xx",
+      "refs_checked_at": "2026-09-05T15:09:37.927094+00:00",
       "repository": "mossmann/cc11xx",
       "repository_name": "cc11xx",
       "source_references": [
@@ -7352,151 +7352,151 @@
         "https://github.com/mossmann/cc11xx/blob/master/tc14badge/doc/tc14badge-schematic.pdf",
         "https://github.com/mossmann/cc11xx/tree/master/tc14badge"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "3fe05d291192d8e649b46f5a4bb2d57b25eff836",
       "upstream_url": "https://github.com/mossmann/cc11xx",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/bornhack-2022-game-on"
       ],
       "badges": [
         "bornhack-2022-game-on"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 1,
+      "canonical_repository": "MrJavaWolf/BornHack2022Game",
+      "collected_at": "2026-09-05T15:03:00.983184+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
-      "license_detected": null,
+      "fork_commit": "2ba88efe99332e6542d21834f335a8d139cb35e8",
+      "head_matches": true,
+      "license_detected": "MIT",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/bornhack2022game",
+      "refs_checked_at": "2026-09-05T15:09:38.940598+00:00",
       "repository": "MrJavaWolf/BornHack2022Game",
       "repository_name": "bornhack2022game",
       "source_references": [
         "https://github.com/MrJavaWolf/BornHack2022Game"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "2ba88efe99332e6542d21834f335a8d139cb35e8",
       "upstream_url": "https://github.com/MrJavaWolf/BornHack2022Game",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/muhack-badge"
       ],
       "badges": [
         "muhack-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "MrMoDDoM/MuHack-Badge",
-      "collected_at": "2026-09-05T14:16:24.619858+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:03:11.420323+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "f796572ce0a95a7a1de32500560db700e111c6e3",
+      "head_matches": true,
       "license_detected": "AGPL-3.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/muhack-badge",
+      "refs_checked_at": "2026-09-05T15:09:38.946340+00:00",
       "repository": "MrMoDDoM/MuHack-Badge",
       "repository_name": "muhack-badge",
       "source_references": [
         "https://github.com/MrMoDDoM/MuHack-Badge"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "f796572ce0a95a7a1de32500560db700e111c6e3",
       "upstream_url": "https://github.com/MrMoDDoM/MuHack-Badge",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/ouroboros-badge-def-con-34"
       ],
       "badges": [
         "ouroboros-badge-def-con-34"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "mytechnotalent/ouroboros",
-      "collected_at": "2026-09-05T14:16:55.229356+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:03:21.102814+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "91ee378b52bfa0b2d1b6d0b3a6c91e4da5877306",
+      "head_matches": true,
       "license_detected": "NOASSERTION",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/ouroboros",
+      "refs_checked_at": "2026-09-05T15:09:38.947587+00:00",
       "repository": "mytechnotalent/ouroboros",
       "repository_name": "ouroboros",
       "source_references": [
         "https://github.com/mytechnotalent/ouroboros"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 1,
+      "upstream_commit": "91ee378b52bfa0b2d1b6d0b3a6c91e4da5877306",
       "upstream_url": "https://github.com/mytechnotalent/ouroboros",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/ouroboros-badge-def-con-34"
       ],
       "badges": [
         "ouroboros-badge-def-con-34"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 1,
+      "canonical_repository": "mytechnotalent/Reverse-Engineering",
+      "collected_at": "2026-09-05T15:03:31.118172+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
-      "license_detected": null,
+      "fork_commit": "fe96f56c3646c316ec3d8ec672baece8b23c7b1a",
+      "head_matches": true,
+      "license_detected": "Apache-2.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/reverse-engineering",
+      "refs_checked_at": "2026-09-05T15:09:38.956840+00:00",
       "repository": "mytechnotalent/Reverse-Engineering",
       "repository_name": "reverse-engineering",
       "source_references": [
         "https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Ouroboros_How_It_Works.pdf"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "fe96f56c3646c316ec3d8ec672baece8b23c7b1a",
       "upstream_url": "https://github.com/mytechnotalent/Reverse-Engineering",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/narengogi-def-con-34-shitty-add-on"
       ],
       "badges": [
         "narengogi-def-con-34-shitty-add-on"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "narengogi/defcon-34-shitty-add-on",
-      "collected_at": "2026-09-05T14:16:29.965072+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:03:41.533740+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "e64fc1657bca9cc0fc0fe1b942100ae1a0dd94dc",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/defcon-34-shitty-add-on",
+      "refs_checked_at": "2026-09-05T15:09:39.980566+00:00",
       "repository": "narengogi/defcon-34-shitty-add-on",
       "repository_name": "defcon-34-shitty-add-on",
       "source_references": [
@@ -7505,31 +7505,31 @@
         "https://github.com/narengogi/defcon-34-shitty-add-on/tree/e64fc1657bca9cc0fc0fe1b942100ae1a0dd94dc",
         "https://github.com/narengogi/defcon-34-shitty-add-on/tree/e64fc1657bca9cc0fc0fe1b942100ae1a0dd94dc/Untitled"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "e64fc1657bca9cc0fc0fe1b942100ae1a0dd94dc",
       "upstream_url": "https://github.com/narengogi/defcon-34-shitty-add-on",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/nodeconf-eu-2017-badge"
       ],
       "badges": [
         "nodeconf-eu-2017-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "nearform/nceubadge",
-      "collected_at": "2026-09-05T14:17:00.670776+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:03:51.683212+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "1b73fd9c3cbd96f3332adee496ca74df1dfe3529",
+      "head_matches": true,
       "license_detected": "Apache-2.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/nceubadge",
+      "refs_checked_at": "2026-09-05T15:09:39.993045+00:00",
       "repository": "nearform/nceubadge",
       "repository_name": "nceubadge",
       "source_references": [
@@ -7538,31 +7538,31 @@
         "https://github.com/nearform/nceubadge/blob/master/img/nceubadge.png",
         "https://github.com/nearform/nceubadge/tree/master/hardware"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "1b73fd9c3cbd96f3332adee496ca74df1dfe3529",
       "upstream_url": "https://github.com/nearform/nceubadge",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/nodeconf-eu-2018-badge"
       ],
       "badges": [
         "nodeconf-eu-2018-badge"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 4,
+      "canonical_repository": "nearform/nceubadge2018",
+      "collected_at": "2026-09-05T15:04:02.011307+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
-      "license_detected": null,
+      "fork_commit": "088624fa90041416d3b461b6879078891e110b43",
+      "head_matches": true,
+      "license_detected": "NOASSERTION",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/nceubadge2018",
+      "refs_checked_at": "2026-09-05T15:09:40.006550+00:00",
       "repository": "nearform/nceubadge2018",
       "repository_name": "nceubadge2018",
       "source_references": [
@@ -7575,61 +7575,61 @@
         "https://github.com/nearform/nceubadge2018/tree/master/patterns",
         "https://github.com/nearform/nceubadge2018/tree/master/sch"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "088624fa90041416d3b461b6879078891e110b43",
       "upstream_url": "https://github.com/nearform/nceubadge2018",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/nodeconf-eu-2019-nodewatch"
       ],
       "badges": [
         "nodeconf-eu-2019-nodewatch"
       ],
-      "branch_count": null,
+      "branch_count": 2,
       "canonical_repository": "nearform/nodeconfeu-gesture-models",
-      "collected_at": "2026-09-05T14:16:35.389790+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:04:11.086051+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "f57bee70dbf3744a250261db1ff8bba37c3ed189",
+      "head_matches": true,
       "license_detected": "NOASSERTION",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/nodeconfeu-gesture-models",
+      "refs_checked_at": "2026-09-05T15:09:40.023610+00:00",
       "repository": "nearform/nodeconfeu-gesture-models",
       "repository_name": "nodeconfeu-gesture-models",
       "source_references": [
         "https://github.com/nearform/nodeconfeu-gesture-models"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "f57bee70dbf3744a250261db1ff8bba37c3ed189",
       "upstream_url": "https://github.com/nearform/nodeconfeu-gesture-models",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/ifixit-sao-def-con-34"
       ],
       "badges": [
         "ifixit-sao-def-con-34"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "NerdFlare/iFixit-SAO-2026",
-      "collected_at": "2026-09-05T14:17:06.052042+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:04:21.532545+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "3c3ef57617593603cdaea7d0b9352f2eedc4776c",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/ifixit-sao-2026",
+      "refs_checked_at": "2026-09-05T15:09:40.998098+00:00",
       "repository": "NerdFlare/iFixit-SAO-2026",
       "repository_name": "ifixit-sao-2026",
       "source_references": [
@@ -7637,31 +7637,31 @@
         "https://github.com/NerdFlare/iFixit-SAO-2026/blob/3c3ef57617593603cdaea7d0b9352f2eedc4776c/README.md",
         "https://github.com/NerdFlare/iFixit-SAO-2026/commit/ba1d77ee7f5152dd38b886b5a00ba95be538f8da"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "3c3ef57617593603cdaea7d0b9352f2eedc4776c",
       "upstream_url": "https://github.com/NerdFlare/iFixit-SAO-2026",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/nilbinsec-power-glove-re-release-sao-def-con-34"
       ],
       "badges": [
         "nilbinsec-power-glove-re-release-sao-def-con-34"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 1,
+      "canonical_repository": "NilbinSec/DC32-Power-Glove-SAO",
+      "collected_at": "2026-09-05T15:04:41.214223+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
+      "fork_commit": "b63f9898dc048706fb60ce274abdcbda77401dd7",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/dc32-power-glove-sao",
+      "refs_checked_at": "2026-09-05T15:09:40.998804+00:00",
       "repository": "NilbinSec/DC32-Power-Glove-SAO",
       "repository_name": "dc32-power-glove-sao",
       "source_references": [
@@ -7669,31 +7669,31 @@
         "https://github.com/NilbinSec/DC32-Power-Glove-SAO/blob/main/README.md",
         "https://github.com/NilbinSec/DC32-Power-Glove-SAO/tree/main/gerbers"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "b63f9898dc048706fb60ce274abdcbda77401dd7",
       "upstream_url": "https://github.com/NilbinSec/DC32-Power-Glove-SAO",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/nilbinsec-dc34-main-badge-fuzzer-sao"
       ],
       "badges": [
         "nilbinsec-dc34-main-badge-fuzzer-sao"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "NilbinSec/DC34_Main_Badge_Fuzzer_SAO",
-      "collected_at": "2026-09-05T14:16:40.860827+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:04:51.607070+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "572cbe9d7768b1c46a69be8622e0983b40e55c76",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/dc34-main-badge-fuzzer-sao",
+      "refs_checked_at": "2026-09-05T15:09:41.010704+00:00",
       "repository": "NilbinSec/DC34_Main_Badge_Fuzzer_SAO",
       "repository_name": "dc34-main-badge-fuzzer-sao",
       "source_references": [
@@ -7703,31 +7703,31 @@
         "https://github.com/NilbinSec/DC34_Main_Badge_Fuzzer_SAO/blob/main/README.md",
         "https://github.com/NilbinSec/DC34_Main_Badge_Fuzzer_SAO/tree/main"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "572cbe9d7768b1c46a69be8622e0983b40e55c76",
       "upstream_url": "https://github.com/NilbinSec/DC34_Main_Badge_Fuzzer_SAO",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/northsec-2026-badge"
       ],
       "badges": [
         "northsec-2026-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "nsec/badge-2026",
-      "collected_at": "2026-09-05T14:17:11.623909+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:05:01.297411+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "4dab9e6c4c0b8efc9a643ee646a49550453ea22c",
+      "head_matches": true,
       "license_detected": "Apache-2.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/nsec-2026",
+      "refs_checked_at": "2026-09-05T15:09:41.016882+00:00",
       "repository": "nsec/badge-2026",
       "repository_name": "nsec-2026",
       "source_references": [
@@ -7738,45 +7738,45 @@
         "https://github.com/nsec/badge-2026/tree/4dab9e6c4c0b8efc9a643ee646a49550453ea22c",
         "https://github.com/nsec/badge-2026/tree/4dab9e6c4c0b8efc9a643ee646a49550453ea22c/hardware/badge"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "4dab9e6c4c0b8efc9a643ee646a49550453ea22c",
       "upstream_url": "https://github.com/nsec/badge-2026",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/northsec-2023-badge"
       ],
       "badges": [
         "northsec-2023-badge"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 1,
+      "canonical_repository": "nsec/badge-conf-2023",
+      "collected_at": "2026-09-05T15:05:12.176827+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
+      "fork_commit": "9e7f501908cbbf64a35fdbaa296d615f69f12307",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/badge-conf-2023",
+      "refs_checked_at": "2026-09-05T15:09:42.029282+00:00",
       "repository": "nsec/badge-conf-2023",
-      "repository_name": "badge-conf-2023",
+      "repository_name": "nsec-2023",
       "source_references": [
         "https://github.com/nsec/badge-conf-2023",
         "https://raw.githubusercontent.com/nsec/badge-conf-2023/nsec2023/README.md"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "9e7f501908cbbf64a35fdbaa296d615f69f12307",
       "upstream_url": "https://github.com/nsec/badge-conf-2023",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/northsec-2016-badge",
         "https://badge.gallery/badges/northsec-2017-badge",
@@ -7801,17 +7801,17 @@
         "northsec-2025-badge",
         "northsec-2026-badge"
       ],
-      "branch_count": null,
+      "branch_count": 6,
       "canonical_repository": "nsec/nsec-badge",
-      "collected_at": "2026-09-05T14:16:46.274982+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:05:21.647042+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "79638d58b11b0f55457f26083628073508c4d25c",
+      "head_matches": true,
       "license_detected": "NOASSERTION",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/nsec-badge",
+      "refs_checked_at": "2026-09-05T15:09:42.029672+00:00",
       "repository": "nsec/nsec-badge",
       "repository_name": "nsec-badge",
       "source_references": [
@@ -7845,31 +7845,31 @@
         "https://raw.githubusercontent.com/nsec/nsec-badge/nsec21/README.md",
         "https://raw.githubusercontent.com/nsec/nsec-badge/nsec23/README.md"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 8,
+      "upstream_commit": "79638d58b11b0f55457f26083628073508c4d25c",
       "upstream_url": "https://github.com/nsec/nsec-badge",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/northsec-2023-badge"
       ],
       "badges": [
         "northsec-2023-badge"
       ],
-      "branch_count": null,
+      "branch_count": 2,
       "canonical_repository": "nsec/nsec-badge-controller-screen",
-      "collected_at": "2026-09-05T14:17:16.895502+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:05:31.562931+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "052e2989374b0fd49e10ded71abb8c5c3b983650",
+      "head_matches": true,
       "license_detected": "NOASSERTION",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/nsec-badge-controller-screen",
+      "refs_checked_at": "2026-09-05T15:09:42.034120+00:00",
       "repository": "nsec/nsec-badge-controller-screen",
       "repository_name": "nsec-badge-controller-screen",
       "source_references": [
@@ -7877,31 +7877,31 @@
         "https://github.com/nsec/nsec-badge-controller-screen/blob/main/LICENSE",
         "https://raw.githubusercontent.com/nsec/nsec-badge-controller-screen/main/README.md"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "052e2989374b0fd49e10ded71abb8c5c3b983650",
       "upstream_url": "https://github.com/nsec/nsec-badge-controller-screen",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/greyctf-summit-2025-greybadge"
       ],
       "badges": [
         "greyctf-summit-2025-greybadge"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 10,
+      "canonical_repository": "NUSGreyhats/greybadge25",
+      "collected_at": "2026-09-05T15:05:41.337007+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
+      "fork_commit": "3ce9bfbf0061ee36e17dca1274c2f65ae9a5bb07",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/greybadge25",
+      "refs_checked_at": "2026-09-05T15:09:42.044406+00:00",
       "repository": "NUSGreyhats/greybadge25",
       "repository_name": "greybadge25",
       "source_references": [
@@ -7915,31 +7915,31 @@
         "https://github.com/NUSGreyhats/greybadge25/tree/main/firmware/ecp5",
         "https://github.com/NUSGreyhats/greybadge25/tree/main/hardware/greybadge_pcb"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 8,
+      "upstream_commit": "3ce9bfbf0061ee36e17dca1274c2f65ae9a5bb07",
       "upstream_url": "https://github.com/NUSGreyhats/greybadge25",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/hack-and-roll-2026-quack-and-roll-badge"
       ],
       "badges": [
         "hack-and-roll-2026-quack-and-roll-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "nushackers/hnr26-badge-workshop",
-      "collected_at": "2026-09-05T14:16:51.729690+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:05:51.626530+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "19cac925f84c85f3e53fade0013abf9e75a935ce",
+      "head_matches": true,
       "license_detected": "MIT",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/hnr26-badge-workshop",
+      "refs_checked_at": "2026-09-05T15:09:43.081783+00:00",
       "repository": "nushackers/hnr26-badge-workshop",
       "repository_name": "hnr26-badge-workshop",
       "source_references": [
@@ -7948,31 +7948,31 @@
         "https://github.com/nushackers/hnr26-badge-workshop/blob/main/firmware/README.md",
         "https://github.com/nushackers/hnr26-badge-workshop/blob/main/firmware/main/main.c"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 1,
+      "upstream_commit": "19cac925f84c85f3e53fade0013abf9e75a935ce",
       "upstream_url": "https://github.com/nushackers/hnr26-badge-workshop",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/onion-dao-2026-hardware-badge"
       ],
       "badges": [
         "onion-dao-2026-hardware-badge"
       ],
-      "branch_count": null,
+      "branch_count": 8,
       "canonical_repository": "OnionDAO-git/oniondao-badge",
-      "collected_at": "2026-09-05T14:17:22.481252+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:06:01.428123+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "b43a7ac11efc9c84eb92a1fe499c1cb1d05155b6",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/oniondao-badge",
+      "refs_checked_at": "2026-09-05T15:09:43.082621+00:00",
       "repository": "OnionDAO-git/oniondao-badge",
       "repository_name": "oniondao-badge",
       "source_references": [
@@ -7981,61 +7981,61 @@
         "https://github.com/OnionDAO-git/oniondao-badge/blob/main/docs/MODULES.md",
         "https://github.com/OnionDAO-git/oniondao-badge/blob/main/software/guides/esp-idf-vscode-setup.md"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 1,
+      "upstream_commit": "b43a7ac11efc9c84eb92a1fe499c1cb1d05155b6",
       "upstream_url": "https://github.com/OnionDAO-git/oniondao-badge",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/hardwear-io-nl-2023-e-paper-badge"
       ],
       "badges": [
         "hardwear-io-nl-2023-e-paper-badge"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 2,
+      "canonical_repository": "OpenEPaperLink/OpenEPaperLink",
+      "collected_at": "2026-09-05T15:06:11.512115+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
-      "license_detected": null,
+      "fork_commit": "7a9bdbf208107dbf6b11b75048ecc51f644bc500",
+      "head_matches": true,
+      "license_detected": "NOASSERTION",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/openepaperlink",
+      "refs_checked_at": "2026-09-05T15:09:43.092894+00:00",
       "repository": "OpenEPaperLink/OpenEPaperLink",
       "repository_name": "openepaperlink",
       "source_references": [
         "https://github.com/OpenEPaperLink/OpenEPaperLink/wiki/Building-an-Access-Point"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 44,
+      "upstream_commit": "7a9bdbf208107dbf6b11b75048ecc51f644bc500",
       "upstream_url": "https://github.com/OpenEPaperLink/OpenEPaperLink",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/wicc-2026-ctf-badge"
       ],
       "badges": [
         "wicc-2026-ctf-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "OzmoOzmo/SecurityConferenceCTFBadge",
-      "collected_at": "2026-09-05T14:16:57.037204+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:06:21.577479+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "5fa29662326571fd51ee587696be1d376e4f636e",
+      "head_matches": true,
       "license_detected": "MIT",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/securityconferencectfbadge",
+      "refs_checked_at": "2026-09-05T15:09:43.102415+00:00",
       "repository": "OzmoOzmo/SecurityConferenceCTFBadge",
       "repository_name": "securityconferencectfbadge",
       "source_references": [
@@ -8044,31 +8044,31 @@
         "https://github.com/OzmoOzmo/SecurityConferenceCTFBadge/blob/5fa29662326571fd51ee587696be1d376e4f636e/README.md",
         "https://github.com/OzmoOzmo/SecurityConferenceCTFBadge/blob/5fa29662326571fd51ee587696be1d376e4f636e/caseshots.jpeg"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "5fa29662326571fd51ee587696be1d376e4f636e",
       "upstream_url": "https://github.com/OzmoOzmo/SecurityConferenceCTFBadge",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/ozsec-2025-crashandburn-badge"
       ],
       "badges": [
         "ozsec-2025-crashandburn-badge"
       ],
-      "branch_count": null,
+      "branch_count": 3,
       "canonical_repository": "OzSecICT/badge-crashandburn",
-      "collected_at": "2026-09-05T14:17:27.736649+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:06:31.439974+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "3647a389643b833ded67631a427c38ba54adf1ae",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/badge-crashandburn",
+      "refs_checked_at": "2026-09-05T15:09:44.115606+00:00",
       "repository": "OzSecICT/badge-crashandburn",
       "repository_name": "badge-crashandburn",
       "source_references": [
@@ -8077,121 +8077,121 @@
         "https://raw.githubusercontent.com/OzSecICT/badge-crashandburn/main/hardware/pinout.md",
         "https://raw.githubusercontent.com/OzSecICT/badge-crashandburn/main/source/main.py"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "3647a389643b833ded67631a427c38ba54adf1ae",
       "upstream_url": "https://github.com/OzSecICT/badge-crashandburn",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/biohacking-village-dc33-distiller-bhv-badge"
       ],
       "badges": [
         "biohacking-village-dc33-distiller-bhv-badge"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 23,
+      "canonical_repository": "Pamir-AI/distiller-cm5-python",
+      "collected_at": "2026-09-05T15:06:41.522706+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
-      "license_detected": null,
+      "fork_commit": "ea11ef7e12f6091dacda43a5d2d95a04f08587ea",
+      "head_matches": true,
+      "license_detected": "Apache-2.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/distiller-cm5-python",
+      "refs_checked_at": "2026-09-05T15:09:44.125277+00:00",
       "repository": "Pamir-AI/distiller-cm5-python",
       "repository_name": "distiller-cm5-python",
       "source_references": [
         "https://github.com/Pamir-AI/distiller-cm5-python/tree/BHV"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 2,
+      "upstream_commit": "ea11ef7e12f6091dacda43a5d2d95a04f08587ea",
       "upstream_url": "https://github.com/Pamir-AI/distiller-cm5-python",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/biohacking-village-dc33-distiller-bhv-badge"
       ],
       "badges": [
         "biohacking-village-dc33-distiller-bhv-badge"
       ],
-      "branch_count": null,
+      "branch_count": 13,
       "canonical_repository": "Pamir-AI/distiller-cm5-sdk",
-      "collected_at": "2026-09-05T14:17:02.477216+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:06:51.313112+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "721f10c048b61ed71619114d79ba2b25bf2e2775",
+      "head_matches": true,
       "license_detected": "Apache-2.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/distiller-cm5-sdk",
+      "refs_checked_at": "2026-09-05T15:09:44.131837+00:00",
       "repository": "Pamir-AI/distiller-cm5-sdk",
       "repository_name": "distiller-cm5-sdk",
       "source_references": [
         "https://github.com/Pamir-AI/distiller-cm5-sdk/tree/BHV"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 4,
+      "upstream_commit": "721f10c048b61ed71619114d79ba2b25bf2e2775",
       "upstream_url": "https://github.com/Pamir-AI/distiller-cm5-sdk",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/malo-sao-def-con-34"
       ],
       "badges": [
         "malo-sao-def-con-34"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "parallellogic-/MalO_SAO",
-      "collected_at": "2026-09-05T14:17:33.247249+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:07:01.379591+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "72403c10e38bc12a5234dbbbeb7ff41354dca142",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/malo-sao",
+      "refs_checked_at": "2026-09-05T15:09:44.139338+00:00",
       "repository": "parallellogic-/MalO_SAO",
       "repository_name": "malo-sao",
       "source_references": [
         "https://github.com/parallellogic-/MalO_SAO"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "72403c10e38bc12a5234dbbbeb7ff41354dca142",
       "upstream_url": "https://github.com/parallellogic-/MalO_SAO",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/dc503-def-con-26-vip-banglet"
       ],
       "badges": [
         "dc503-def-con-26-vip-banglet"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 1,
+      "canonical_repository": "pdxbadgers/2018-banglet",
+      "collected_at": "2026-09-05T15:07:11.282768+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
-      "license_detected": null,
+      "fork_commit": "eec852facb81116c6823cca52e924ca2c37da795",
+      "head_matches": true,
+      "license_detected": "Apache-2.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/2018-banglet",
+      "refs_checked_at": "2026-09-05T15:09:45.148282+00:00",
       "repository": "pdxbadgers/2018-banglet",
       "repository_name": "2018-banglet",
       "source_references": [
@@ -8205,31 +8205,31 @@
         "https://github.com/pdxbadgers/2018-banglet/blob/master/sketches/banglet/banglet.ino",
         "https://github.com/pdxbadgers/2018-banglet/blob/master/sketches/bleuart_interaction/bleuart_interaction.ino"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "eec852facb81116c6823cca52e924ca2c37da795",
       "upstream_url": "https://github.com/pdxbadgers/2018-banglet",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/bsidespdx-2020-presenter-led-mask"
       ],
       "badges": [
         "bsidespdx-2020-presenter-led-mask"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "pdxbadgers/2020-mask",
-      "collected_at": "2026-09-05T14:17:07.905209+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:07:21.571690+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "a558caf73baa4e624a385fa816ba82f034a5a7bc",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/2020-mask",
+      "refs_checked_at": "2026-09-05T15:09:45.156658+00:00",
       "repository": "pdxbadgers/2020-mask",
       "repository_name": "2020-mask",
       "source_references": [
@@ -8237,31 +8237,31 @@
         "https://github.com/pdxbadgers/2020-mask/blob/main/2020-mask.ino",
         "https://github.com/pdxbadgers/2020-mask/blob/main/README.md"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "a558caf73baa4e624a385fa816ba82f034a5a7bc",
       "upstream_url": "https://github.com/pdxbadgers/2020-mask",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/dc503-503-party-2019-5ohbee"
       ],
       "badges": [
         "dc503-503-party-2019-5ohbee"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 1,
+      "canonical_repository": "pdxbadgers/5ohBEE-2019",
+      "collected_at": "2026-09-05T15:07:31.239554+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
-      "license_detected": null,
+      "fork_commit": "f2a227239b3fc3d9156bea2e8e7e3a9396c39c47",
+      "head_matches": true,
+      "license_detected": "Apache-2.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/5ohbee-2019",
+      "refs_checked_at": "2026-09-05T15:09:45.159225+00:00",
       "repository": "pdxbadgers/5ohBEE-2019",
       "repository_name": "5ohbee-2019",
       "source_references": [
@@ -8275,31 +8275,31 @@
         "https://github.com/pdxbadgers/5ohBEE-2019/blob/master/sketch/five-oh-BEE.ino",
         "https://github.com/pdxbadgers/5ohBEE-2019/commits/master/"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "f2a227239b3fc3d9156bea2e8e7e3a9396c39c47",
       "upstream_url": "https://github.com/pdxbadgers/5ohBEE-2019",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/bsidespdx-2018-attiny861-badge"
       ],
       "badges": [
         "bsidespdx-2018-attiny861-badge"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 1,
+      "canonical_repository": "pdxbadgers/badge-2018",
+      "collected_at": "2026-09-05T15:07:41.837492+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
+      "fork_commit": "ccc806789f9dcbda0ac1b05a4fd7575106a588a5",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/pdxbadgers-2018",
+      "refs_checked_at": "2026-09-05T15:09:45.172747+00:00",
       "repository": "pdxbadgers/badge-2018",
       "repository_name": "pdxbadgers-2018",
       "source_references": [
@@ -8312,31 +8312,31 @@
         "https://github.com/pdxbadgers/badge-2018/blob/master/HW/BSidesPDX_2018/BSidesPDX_2018.sch",
         "https://github.com/pdxbadgers/badge-2018/tree/master/HW/BSidesPDX_2018/gerbers"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "ccc806789f9dcbda0ac1b05a4fd7575106a588a5",
       "upstream_url": "https://github.com/pdxbadgers/badge-2018",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/bsidespdx-2019-multnomah-badge"
       ],
       "badges": [
         "bsidespdx-2019-multnomah-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "pdxbadgers/badge-2019",
-      "collected_at": "2026-09-05T14:17:13.311635+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:07:51.227665+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "69dc68f359fe1ca10ff2921412016b2b691f2aeb",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/pdxbadgers-2019",
+      "refs_checked_at": "2026-09-05T15:09:46.166441+00:00",
       "repository": "pdxbadgers/badge-2019",
       "repository_name": "pdxbadgers-2019",
       "source_references": [
@@ -8346,31 +8346,31 @@
         "https://github.com/pdxbadgers/badge-2019/blob/master/multnomah.kicad_pcb",
         "https://github.com/pdxbadgers/badge-2019/blob/master/multnomah.sch"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "69dc68f359fe1ca10ff2921412016b2b691f2aeb",
       "upstream_url": "https://github.com/pdxbadgers/badge-2019",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/bsidespdx-2024-opentaxus-badge"
       ],
       "badges": [
         "bsidespdx-2024-opentaxus-badge"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 2,
+      "canonical_repository": "pdxbadgers/badge-2024",
+      "collected_at": "2026-09-05T15:08:01.655378+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
-      "license_detected": null,
+      "fork_commit": "7d406754cece5fbec363e02ed7f98aef129233de",
+      "head_matches": true,
+      "license_detected": "NOASSERTION",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/pdxbadgers-2024",
+      "refs_checked_at": "2026-09-05T15:09:46.175034+00:00",
       "repository": "pdxbadgers/badge-2024",
       "repository_name": "pdxbadgers-2024",
       "source_references": [
@@ -8380,65 +8380,65 @@
         "https://github.com/pdxbadgers/badge-2024/blob/main/hardware/README.md",
         "https://github.com/pdxbadgers/badge-2024/blob/main/trickortreat/README.md"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 3,
+      "upstream_commit": "7d406754cece5fbec363e02ed7f98aef129233de",
       "upstream_url": "https://github.com/pdxbadgers/badge-2024",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/bsidespdx-2015-badger-badge"
       ],
       "badges": [
         "bsidespdx-2015-badger-badge"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 1,
+      "canonical_repository": "pdxbadgers/fw-2015",
+      "collected_at": "2026-09-05T15:08:11.412458+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
+      "fork_commit": "ee2ea47ad6f7301d9537cdc04ead876134729698",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/fw-2015",
+      "refs_checked_at": "2026-09-05T15:09:46.182415+00:00",
       "repository": "pdxbadgers/fw-2015",
-      "repository_name": "fw-2015",
+      "repository_name": "pdxbadgers-2015-firmware",
       "source_references": [
         "https://github.com/pdxbadgers/fw-2015",
         "https://github.com/pdxbadgers/fw-2015/blob/master/README.md",
         "https://github.com/pdxbadgers/fw-2015/blob/master/badger.ino"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "ee2ea47ad6f7301d9537cdc04ead876134729698",
       "upstream_url": "https://github.com/pdxbadgers/fw-2015",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/bsidespdx-2015-badger-badge"
       ],
       "badges": [
         "bsidespdx-2015-badger-badge"
       ],
-      "branch_count": null,
+      "branch_count": 3,
       "canonical_repository": "pdxbadgers/pcb-2015",
-      "collected_at": "2026-09-05T14:17:18.766380+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:08:21.300784+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "bd3fa91e75062ff5b0a00645df46b59974dec759",
+      "head_matches": true,
       "license_detected": "NOASSERTION",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/pcb-2015",
+      "refs_checked_at": "2026-09-05T15:09:46.189581+00:00",
       "repository": "pdxbadgers/pcb-2015",
-      "repository_name": "pcb-2015",
+      "repository_name": "pdxbadgers-2015-hardware",
       "source_references": [
         "https://github.com/pdxbadgers/pcb-2015",
         "https://github.com/pdxbadgers/pcb-2015/blob/master/COPYING.TXT",
@@ -8446,33 +8446,33 @@
         "https://github.com/pdxbadgers/pcb-2015/blob/master/badger.sch",
         "https://github.com/pdxbadgers/pcb-2015/blob/master/badger_gerbs3.zip"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 3,
+      "upstream_commit": "bd3fa91e75062ff5b0a00645df46b59974dec759",
       "upstream_url": "https://github.com/pdxbadgers/pcb-2015",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/bsidespdx-2016-attiny85-badge"
       ],
       "badges": [
         "bsidespdx-2016-attiny85-badge"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 1,
+      "canonical_repository": "pdxbadgers/pcb-2016",
+      "collected_at": "2026-09-05T15:08:31.673002+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
+      "fork_commit": "c1cc4a017484699b49f5a2e87ae3cf19dcb5652d",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/pcb-2016",
+      "refs_checked_at": "2026-09-05T15:09:47.210030+00:00",
       "repository": "pdxbadgers/pcb-2016",
-      "repository_name": "pcb-2016",
+      "repository_name": "pdxbadgers-2016-hardware",
       "source_references": [
         "https://github.com/pdxbadgers/pcb-2016",
         "https://github.com/pdxbadgers/pcb-2016/blob/master/BoM.csv",
@@ -8480,64 +8480,64 @@
         "https://github.com/pdxbadgers/pcb-2016/blob/master/badge.ino",
         "https://github.com/pdxbadgers/pcb-2016/blob/master/badge.sch"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "c1cc4a017484699b49f5a2e87ae3cf19dcb5652d",
       "upstream_url": "https://github.com/pdxbadgers/pcb-2016",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/bsidespdx-2017-bmd-300-badge"
       ],
       "badges": [
         "bsidespdx-2017-bmd-300-badge"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 1,
+      "canonical_repository": "pdxbadgers/pcb-2017",
+      "collected_at": "2026-09-05T15:08:41.459207+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
+      "fork_commit": "c0fbd361a33bf438dea4537a8b340456ef69fe9d",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/pcb-2017",
+      "refs_checked_at": "2026-09-05T15:09:47.217691+00:00",
       "repository": "pdxbadgers/pcb-2017",
-      "repository_name": "pcb-2017",
+      "repository_name": "pdxbadgers-2017-hardware",
       "source_references": [
         "https://github.com/pdxbadgers/pcb-2017",
         "https://github.com/pdxbadgers/pcb-2017/blob/master/bom.csv",
         "https://github.com/pdxbadgers/pcb-2017/blob/master/bsides2017.brd",
         "https://github.com/pdxbadgers/pcb-2017/blob/master/bsides2017.sch"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "c0fbd361a33bf438dea4537a8b340456ef69fe9d",
       "upstream_url": "https://github.com/pdxbadgers/pcb-2017",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/dc503-wagon-party-2017-badge"
       ],
       "badges": [
         "dc503-wagon-party-2017-badge"
       ],
-      "branch_count": null,
+      "branch_count": 1,
       "canonical_repository": "pdxbadgers/wagonparty",
-      "collected_at": "2026-09-05T14:17:24.143560+00:00",
-      "collected_status": "fork blocked: was submitted too quickly",
-      "error": "was submitted too quickly",
-      "fork_commit": null,
-      "head_matches": null,
+      "collected_at": "2026-09-05T15:08:51.453799+00:00",
+      "collected_status": "verified fork",
+      "error": null,
+      "fork_commit": "a0103b377fdb0af1e592d9cd3258fa607a4469c6",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/wagonparty",
+      "refs_checked_at": "2026-09-05T15:09:47.226947+00:00",
       "repository": "pdxbadgers/wagonparty",
       "repository_name": "wagonparty",
       "source_references": [
@@ -8548,105 +8548,105 @@
         "https://github.com/pdxbadgers/wagonparty/commits/master/",
         "https://github.com/pdxbadgers/wagonparty/tree/master/images"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "a0103b377fdb0af1e592d9cd3258fa607a4469c6",
       "upstream_url": "https://github.com/pdxbadgers/wagonparty",
-      "worker_status": "fork_failed"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/gigageiger-badge-def-con-33"
       ],
       "badges": [
         "gigageiger-badge-def-con-33"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 1,
+      "canonical_repository": "Penzz-HM/GigaGeiger",
+      "collected_at": "2026-09-05T15:09:01.457508+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
-      "license_detected": null,
+      "fork_commit": "69da9c6322ba094d9e5a5bca2970aa47e47b6ed5",
+      "head_matches": true,
+      "license_detected": "GPL-3.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/gigageiger",
+      "refs_checked_at": "2026-09-05T15:09:47.261532+00:00",
       "repository": "Penzz-HM/GigaGeiger",
       "repository_name": "gigageiger",
       "source_references": [
         "https://github.com/Penzz-HM/GigaGeiger",
         "https://github.com/Penzz-HM/GigaGeiger/blob/main/GG_OTA_061025.ino"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "69da9c6322ba094d9e5a5bca2970aa47e47b6ed5",
       "upstream_url": "https://github.com/Penzz-HM/GigaGeiger",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/ruxcon-2015-hhv-badge"
       ],
       "badges": [
         "ruxcon-2015-hhv-badge"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 1,
+      "canonical_repository": "peterfillmore/RuxconBadge2015",
+      "collected_at": "2026-09-05T15:09:11.347181+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
-      "license_detected": null,
+      "fork_commit": "e6aac14d6bfdd1c049e7e1e0f46fe420dd2dc3ea",
+      "head_matches": true,
+      "license_detected": "Unlicense",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/ruxconbadge2015",
+      "refs_checked_at": "2026-09-05T15:09:48.207411+00:00",
       "repository": "peterfillmore/RuxconBadge2015",
       "repository_name": "ruxconbadge2015",
       "source_references": [
         "https://github.com/peterfillmore/RuxconBadge2015",
         "https://github.com/peterfillmore/RuxconBadge2015/blob/master/Building%20the%20Ruxcon%202015%20Hardware%20Hacking%20Badge.pdf"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "e6aac14d6bfdd1c049e7e1e0f46fe420dd2dc3ea",
       "upstream_url": "https://github.com/peterfillmore/RuxconBadge2015",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
-      "advertised_refs_match": null,
+      "actions_disabled": true,
+      "advertised_refs_match": true,
       "badge_urls": [
         "https://badge.gallery/badges/bornhack-2022-game-on"
       ],
       "badges": [
         "bornhack-2022-game-on"
       ],
-      "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "branch_count": 2,
+      "canonical_repository": "pietervdvn/BadgeMap",
+      "collected_at": "2026-09-05T15:09:21.782750+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
-      "license_detected": null,
+      "fork_commit": "ce1762184d3b034b4f13f480502ed8a0be58bb6a",
+      "head_matches": true,
+      "license_detected": "GPL-3.0",
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
-      "refs_checked_at": null,
+      "preservation_url": "https://github.com/badge-gallery/badgemap",
+      "refs_checked_at": "2026-09-05T15:09:48.222832+00:00",
       "repository": "pietervdvn/BadgeMap",
       "repository_name": "badgemap",
       "source_references": [
         "https://github.com/pietervdvn/BadgeMap/tree/feature/calendar/bornhack"
       ],
-      "tag_count": null,
-      "upstream_commit": null,
+      "tag_count": 0,
+      "upstream_commit": "ce1762184d3b034b4f13f480502ed8a0be58bb6a",
       "upstream_url": "https://github.com/pietervdvn/BadgeMap",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
-      "actions_disabled": null,
+      "actions_disabled": true,
       "advertised_refs_match": null,
       "badge_urls": [
         "https://badge.gallery/badges/helgatchi-badge-def-con-34"
@@ -8655,15 +8655,15 @@
         "helgatchi-badge-def-con-34"
       ],
       "branch_count": null,
-      "canonical_repository": null,
-      "collected_at": null,
-      "collected_status": "pending (not collected)",
+      "canonical_repository": "Pips801/Helgatchi",
+      "collected_at": "2026-09-05T15:09:31.584031+00:00",
+      "collected_status": "verified fork",
       "error": null,
-      "fork_commit": null,
-      "head_matches": null,
+      "fork_commit": "89fb5fafff4dc2215cd31567cc194b943b6694a3",
+      "head_matches": true,
       "license_detected": null,
       "license_review": "not reviewed; native GitHub fork only, no relicensing or reuse clearance",
-      "preservation_url": null,
+      "preservation_url": "https://github.com/badge-gallery/helgatchi",
       "refs_checked_at": null,
       "repository": "Pips801/Helgatchi",
       "repository_name": "helgatchi",
@@ -8673,9 +8673,9 @@
         "https://github.com/Pips801/Helgatchi/tree/main/Software"
       ],
       "tag_count": null,
-      "upstream_commit": null,
+      "upstream_commit": "89fb5fafff4dc2215cd31567cc194b943b6694a3",
       "upstream_url": "https://github.com/Pips801/Helgatchi",
-      "worker_status": "pending"
+      "worker_status": "forked"
     },
     {
       "actions_disabled": null,
@@ -9584,7 +9584,7 @@
       "preservation_url": null,
       "refs_checked_at": null,
       "repository": "SEAL-Embedded/Conference-Badge",
-      "repository_name": "conference-badge",
+      "repository_name": "seal-conference-badge",
       "source_references": [
         "https://github.com/SEAL-Embedded/Conference-Badge/blob/565a05c1a1349623cbc244925c0e38599ed1f709/README.md",
         "https://github.com/SEAL-Embedded/Conference-Badge/blob/5c1caea03cd18def8ac66bf23b8e7c5581addcaa/README.md",
@@ -10254,7 +10254,7 @@
       "preservation_url": null,
       "refs_checked_at": null,
       "repository": "tropicsquirrel/shop",
-      "repository_name": "shop",
+      "repository_name": "tropicsquirrel-shop",
       "source_references": [
         "https://github.com/tropicsquirrel/shop"
       ],
@@ -10823,10 +10823,9 @@
   ],
   "scope": "Repository URLs in all seeded resources, sources, add-ons, image provenance and technical signals; identity and availability require live verification.",
   "status_counts": {
-    "fork_failed": 47,
-    "forked": 198,
-    "pending": 88,
+    "forked": 265,
+    "pending": 68,
     "upstream_unavailable": 7
   },
-  "verified_preservation_count": 198
+  "verified_preservation_count": 265
 }
