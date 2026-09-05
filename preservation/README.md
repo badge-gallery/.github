@@ -3,12 +3,16 @@
 This is a source-to-preservation index for candidate public repositories associated with Hacker Con Badges records. It records collection observations only.
 
 - Candidates: 340
-- Verified native forks with a current destination: 149
+- Verified native forks with a current destination: 158
 - Pending/not collected: 88
-- Forks blocked or throttled: 96
+- Forks blocked or throttled: 87
 - Upstreams unavailable at collection time: 7
 
 A verified destination means the collected record reported matching upstream and fork heads and Actions disabled. Detected licenses are reported as metadata only and have not been reviewed for modification, redistribution, or other reuse rights. This index does not claim complete backups, successful builds, or exhaustive coverage.
+
+Branches and tags: 149 forks have matching complete advertised upstream branch and tag references at their recorded check time. This does not verify LFS objects, release assets, or submodule contents.
+
+See [unavailable source review](unavailable-sources.json) for the seven original source paths that could not be resolved and the evidence reviewed. Other Git hosts are tracked in the [external repository review](external-repositories.json), separately from native GitHub forks.
 
 | Source repository | Preservation destination | Status | Badge records |
 | --- | --- | --- | --- |
@@ -128,31 +132,31 @@ A verified destination means the collected record reported matching upstream and
 | [ElectronicCats/Badge-BugCON2023](https://github.com/ElectronicCats/Badge-BugCON2023) | [verified fork](https://github.com/badge-gallery/badge-bugcon2023) | verified fork | [bugcon-2023-badge](https://badge.gallery/badges/bugcon-2023-badge) |
 | [ElectronicCats/badge-dojocon-2026](https://github.com/ElectronicCats/badge-dojocon-2026) | [verified fork](https://github.com/badge-gallery/badge-dojocon-2026) | verified fork | [dojoconf-panama-2026-electronic-badge](https://badge.gallery/badges/dojoconf-panama-2026-electronic-badge) |
 | [ElectronicCats/badge-dragonJar-2025](https://github.com/ElectronicCats/badge-dragonJar-2025) | [verified fork](https://github.com/badge-gallery/badge-dragonjar-2025) | verified fork | [dragonjarcon-2025-nfc-hardware-badge](https://badge.gallery/badges/dragonjarcon-2025-nfc-hardware-badge) |
-| [ElectronicCats/badge-EKOParty-2024](https://github.com/ElectronicCats/badge-EKOParty-2024) | — | fork blocked: was submitted too quickly | [ekoparty-2024-official-badge](https://badge.gallery/badges/ekoparty-2024-official-badge) |
+| [ElectronicCats/badge-EKOParty-2024](https://github.com/ElectronicCats/badge-EKOParty-2024) | [verified fork](https://github.com/badge-gallery/badge-ekoparty-2024) | verified fork | [ekoparty-2024-official-badge](https://badge.gallery/badges/ekoparty-2024-official-badge) |
 | [ElectronicCats/badge-hackgdl-2025](https://github.com/ElectronicCats/badge-hackgdl-2025) | [verified fork](https://github.com/badge-gallery/badge-hackgdl-2025) | verified fork | [hackgdl-2025-minino-badge](https://badge.gallery/badges/hackgdl-2025-minino-badge) |
 | [ElectronicCats/badge-pwnterrey-2026](https://github.com/ElectronicCats/badge-pwnterrey-2026) | [verified fork](https://github.com/badge-gallery/badge-pwnterrey-2026) | verified fork | [pwnterrey-2026-official-esp32-c5-badge](https://badge.gallery/badges/pwnterrey-2026-official-esp32-c5-badge) |
-| [ElectronicCats/badge-recon-2026](https://github.com/ElectronicCats/badge-recon-2026) | — | fork blocked: was submitted too quickly | [recon-2026-badge](https://badge.gallery/badges/recon-2026-badge) |
+| [ElectronicCats/badge-recon-2026](https://github.com/ElectronicCats/badge-recon-2026) | [verified fork](https://github.com/badge-gallery/badge-recon-2026) | verified fork | [recon-2026-badge](https://badge.gallery/badges/recon-2026-badge) |
 | [ElectronicCats/Badge-UnknownSecurity-Conference-2026](https://github.com/ElectronicCats/Badge-UnknownSecurity-Conference-2026) | [verified fork](https://github.com/badge-gallery/badge-unknownsecurity-conference-2026) | verified fork | [unknowncon-2026-lanyard-badge](https://badge.gallery/badges/unknowncon-2026-lanyard-badge) |
 | [ElectronicCats/Badge-Villa-Hacker](https://github.com/ElectronicCats/Badge-Villa-Hacker) | [verified fork](https://github.com/badge-gallery/badge-villa-hacker) | verified fork | [la-villa-hacker-2025-badge](https://badge.gallery/badges/la-villa-hacker-2025-badge) |
-| [ElectronicCats/badge_hackgdl_2026](https://github.com/ElectronicCats/badge_hackgdl_2026) | — | fork blocked: was submitted too quickly | [hackgdl-2026-camera-badge](https://badge.gallery/badges/hackgdl-2026-camera-badge) |
+| [ElectronicCats/badge_hackgdl_2026](https://github.com/ElectronicCats/badge_hackgdl_2026) | [verified fork](https://github.com/badge-gallery/badge-hackgdl-2026) | verified fork | [hackgdl-2026-camera-badge](https://badge.gallery/badges/hackgdl-2026-camera-badge) |
 | [ElectronicCats/Badge_Tropicon-2026](https://github.com/ElectronicCats/Badge_Tropicon-2026) | [verified fork](https://github.com/badge-gallery/badge-tropicon-2026) | verified fork | [tropicon-2026-electronic-badge](https://badge.gallery/badges/tropicon-2026-electronic-badge) |
 | [ElectronicCats/luckfox-pico](https://github.com/ElectronicCats/luckfox-pico) | [verified fork](https://github.com/badge-gallery/luckfox-pico) | verified fork | [bugcon-2025-linux-badge](https://badge.gallery/badges/bugcon-2025-linux-badge) |
-| [ElectronicCats/Minino](https://github.com/ElectronicCats/Minino) | — | fork blocked: was submitted too quickly | [hackgdl-2025-minino-badge](https://badge.gallery/badges/hackgdl-2025-minino-badge) |
+| [ElectronicCats/Minino](https://github.com/ElectronicCats/Minino) | [verified fork](https://github.com/badge-gallery/minino) | verified fork | [hackgdl-2025-minino-badge](https://badge.gallery/badges/hackgdl-2025-minino-badge) |
 | [ElectronicCats/pwnpet](https://github.com/ElectronicCats/pwnpet) | — | upstream unavailable | [unknowncon-2026-lanyard-badge](https://badge.gallery/badges/unknowncon-2026-lanyard-badge) |
 | [ElectronicCats/pwnterrey-2026_Firmware](https://github.com/ElectronicCats/pwnterrey-2026_Firmware) | [verified fork](https://github.com/badge-gallery/pwnterrey-2026-firmware) | verified fork | [pwnterrey-2026-official-esp32-c5-badge](https://badge.gallery/badges/pwnterrey-2026-official-esp32-c5-badge) |
-| [ElectronicCats/Tropicon-2026_Firmware](https://github.com/ElectronicCats/Tropicon-2026_Firmware) | — | fork blocked: was submitted too quickly | [tropicon-2026-electronic-badge](https://badge.gallery/badges/tropicon-2026-electronic-badge) |
+| [ElectronicCats/Tropicon-2026_Firmware](https://github.com/ElectronicCats/Tropicon-2026_Firmware) | [verified fork](https://github.com/badge-gallery/tropicon-2026-firmware) | verified fork | [tropicon-2026-electronic-badge](https://badge.gallery/badges/tropicon-2026-electronic-badge) |
 | [EMF-TiLDA/SiNE-Firmware](https://github.com/emfcamp/SiNE-Firmware) | [verified fork](https://github.com/badge-gallery/sine-firmware) | verified fork | [sine](https://badge.gallery/badges/sine) |
 | [EMF-TiLDA/SiNE-PCB](https://github.com/emfcamp/SiNE-PCB) | [verified fork](https://github.com/badge-gallery/sine-pcb) | verified fork | [sine](https://badge.gallery/badges/sine) |
-| [emfcamp/badge-2024-hardware](https://github.com/emfcamp/badge-2024-hardware) | — | fork blocked: was submitted too quickly | [tildagon](https://badge.gallery/badges/tildagon) |
+| [emfcamp/badge-2024-hardware](https://github.com/emfcamp/badge-2024-hardware) | [verified fork](https://github.com/badge-gallery/tildagon-hardware) | verified fork | [tildagon](https://badge.gallery/badges/tildagon) |
 | [emfcamp/badge-2024-software](https://github.com/emfcamp/badge-2024-software) | [verified fork](https://github.com/badge-gallery/tildagon-software) | verified fork | [emf-2026-spaceagon-badge](https://badge.gallery/badges/emf-2026-spaceagon-badge) |
 | [emfcamp/Mk3-Firmware](https://github.com/emfcamp/Mk3-Firmware) | [verified fork](https://github.com/badge-gallery/tilda-mk3-firmware) | verified fork | [tilda-mk3](https://badge.gallery/badges/tilda-mk3) |
-| [emfcamp/Mk3-Hardware](https://github.com/emfcamp/Mk3-Hardware) | — | fork blocked: was submitted too quickly | [tilda-mk3](https://badge.gallery/badges/tilda-mk3) |
+| [emfcamp/Mk3-Hardware](https://github.com/emfcamp/Mk3-Hardware) | [verified fork](https://github.com/badge-gallery/tilda-mk3-hardware) | verified fork | [tilda-mk3](https://badge.gallery/badges/tilda-mk3) |
 | [emfcamp/Mk4-Hardware](https://github.com/emfcamp/Mk4-Hardware) | [verified fork](https://github.com/badge-gallery/tilda-mk4-hardware) | verified fork | [tilda-mk4](https://badge.gallery/badges/tilda-mk4) |
 | [emfcamp/Tildagon](https://github.com/emfcamp/Tildagon) | — | upstream unavailable | [tildagon](https://badge.gallery/badges/tildagon) |
-| [endsummercamp/badge-2025](https://github.com/endsummercamp/badge-2025) | — | fork blocked: was submitted too quickly | [end-summer-camp-21-badgesc21-badge](https://badge.gallery/badges/end-summer-camp-21-badgesc21-badge) |
+| [endsummercamp/badge-2025](https://github.com/endsummercamp/badge-2025) | [verified fork](https://github.com/badge-gallery/endsummercamp-2025) | verified fork | [end-summer-camp-21-badgesc21-badge](https://badge.gallery/badges/end-summer-camp-21-badgesc21-badge) |
 | [entropia/gpn17-badge](https://github.com/entropia/gpn17-badge) | [verified fork](https://github.com/badge-gallery/gpn17-badge) | verified fork | [gpn17-badge](https://badge.gallery/badges/gpn17-badge) |
 | [espruino/BangleApps](https://github.com/espruino/BangleApps) | [verified fork](https://github.com/badge-gallery/bangleapps) | verified fork | [nodeconf-eu-2019-nodewatch](https://badge.gallery/badges/nodeconf-eu-2019-nodewatch) |
-| [espruino/Espruino](https://github.com/espruino/Espruino) | — | fork blocked: was submitted too quickly | [nodeconf-eu-2019-nodewatch](https://badge.gallery/badges/nodeconf-eu-2019-nodewatch) |
+| [espruino/Espruino](https://github.com/espruino/Espruino) | [verified fork](https://github.com/badge-gallery/espruino) | verified fork | [nodeconf-eu-2019-nodewatch](https://badge.gallery/badges/nodeconf-eu-2019-nodewatch) |
 | [exploiteers/Case-Design-Files-Exploiteers-Hacker-Pager](https://github.com/exploiteers/Case-Design-Files-Exploiteers-Hacker-Pager) | [verified fork](https://github.com/badge-gallery/case-design-files-exploiteers-hacker-pager) | verified fork | [hacker-pager-def-con-34-revision](https://badge.gallery/badges/hacker-pager-def-con-34-revision) |
 | [exploiteers/Electronics-Design-Exploiteers-Hacker-Pager](https://github.com/exploiteers/Electronics-Design-Exploiteers-Hacker-Pager) | [verified fork](https://github.com/badge-gallery/electronics-design-exploiteers-hacker-pager) | verified fork | [hacker-pager-def-con-34-revision](https://badge.gallery/badges/hacker-pager-def-con-34-revision) |
 | [exploiteers/Meshtastic-Exploiteers-Hacker-Pager](https://github.com/exploiteers/Meshtastic-Exploiteers-Hacker-Pager) | — | fork blocked: was submitted too quickly | [hacker-pager-def-con-34-revision](https://badge.gallery/badges/hacker-pager-def-con-34-revision) |
