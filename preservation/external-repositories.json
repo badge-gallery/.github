@@ -1,0 +1,69 @@
+{
+  "reviewed_at": "2026-09-05T14:46:47Z",
+  "scope": "Read-only classification of 36 external-host references. No repositories were forked, copied, cloned, or modified. License values are sampled public host metadata only; this review did not perform a complete license-file audit and is not a reuse or copying determination.",
+  "summary": {
+    "input_links": 36,
+    "distinct_repository_candidates": 18,
+    "supporting_docs_groups_or_assets": 18,
+    "github_counterparts_proposed": 0,
+    "reason_no_counterparts_proposed": "The inspected public host metadata and sampled README files did not explicitly establish a GitHub upstream counterpart. Do not substitute a GitHub repository based on name similarity."
+  },
+  "repository_candidates": [
+    {"url":"https://codeberg.org/cyberwatch/39C3-release_board","host":"Codeberg","badges":["39c3-cyberwatch-badge"],"evidence":"Public Gitea metadata describes KiCad files and resources for the Cyberwatch 39C3 badge; non-empty, non-mirror, default branch main.","license_detected":null,"github_counterpart":null},
+    {"url":"https://gitlab.com/tidklaas/hip-badge","host":"GitLab","badges":["hip-berlin-2022-badge","hope-xv-electronic-badge"],"evidence":"Public GitLab project endpoint resolves; linked README, board render, and COPYING are repository content.","license_detected":null,"github_counterpart":null},
+    {"url":"https://git.flow3r.garden/flow3r/flow3r-apps","host":"flow3r Git","badges":["flow3r"],"evidence":"Linked README resolves from this public project.","license_detected":"not inspected","github_counterpart":null},
+    {"url":"https://gitlab.com/hyperglitch/dc2024badge","host":"GitLab","badges":["dorscluc-2024-badge"],"evidence":"Public GitLab project endpoint resolves.","license_detected":null,"github_counterpart":null},
+    {"url":"https://gitlab.com/hyperglitch/dc2025badge","host":"GitLab","badges":["dorscluc-2025-badge"],"evidence":"Public GitLab project endpoint resolves.","license_detected":null,"github_counterpart":null},
+    {"url":"https://gitlab.com/hexum-public-share/bfb/dc34/public/badge/portal-badge/software/ch32fun-portal-badge","host":"GitLab","badges":["portal-badge-def-con-34"],"evidence":"Public GitLab project endpoint resolves; linked design.docx is content within it.","license_detected":null,"github_counterpart":null},
+    {"url":"https://gitlab.com/hexum-public-share/bfb/dc34/public/badge/portal-badge/hardware/ch32v303-48lqfp-portal-badge","host":"GitLab","badges":["portal-badge-def-con-34"],"evidence":"Public GitLab project endpoint resolves.","license_detected":null,"github_counterpart":null},
+    {"url":"https://git.trueserve.org/trueControl/hsc25-dc34-wand","host":"TrueServe Git","badges":["agency-wand-def-con-34"],"evidence":"Public README URL resolves from this project.","license_detected":"not inspected","github_counterpart":null},
+    {"url":"https://gitlab.com/techmaker/nonamecon/nonamebadge-2019-public","host":"GitLab","badges":["nonamecon-2019-nonamebadge"],"evidence":"Public GitLab project endpoint resolves.","license_detected":null,"github_counterpart":null},
+    {"url":"https://gitlab.com/coders-in-ua/nonamebadge-2019-ctf","host":"GitLab","badges":["nonamecon-2019-nonamebadge"],"evidence":"Public metadata describes collaborative NoNameBadge CTF write-up; distinct repository but documentation/CTF content rather than primary badge firmware.","license_detected":null,"github_counterpart":null},
+    {"url":"https://gitlab.com/techmaker/nonamecon/nonamebadge-2020-public","host":"GitLab","badges":["nonamecon-2020-air-quality-badge"],"evidence":"Public GitLab project endpoint resolves.","license_detected":null,"github_counterpart":null},
+    {"url":"https://gitlab.com/coders-in-ua/nonamebadge-2020-ctf","host":"GitLab","badges":["nonamecon-2020-air-quality-badge"],"evidence":"Public metadata describes NoNameCon 2020 CTF write-ups; distinct repository but documentation/CTF content rather than primary badge firmware.","license_detected":null,"github_counterpart":null},
+    {"url":"https://git.calltheory.com/callcentervillage/shitty-add-on","host":"CallTheory Git","badges":["def-con-34-badge"],"evidence":"Public project page resolves.","license_detected":"not inspected","github_counterpart":null},
+    {"url":"https://gitlab.com/marx314/nsec-badge-2026-nfc-webhook","host":"GitLab","badges":["northsec-2026-badge"],"evidence":"Public GitLab project endpoint resolves.","license_detected":null,"github_counterpart":null},
+    {"url":"https://gitlab.com/pjranki/bpod","host":"GitLab","badges":["bsides-canberra-2023-bpod"],"evidence":"Public GitLab project endpoint resolves.","license_detected":null,"github_counterpart":null},
+    {"url":"https://codeberg.org/Ranzbak/bornhack2026-hardware","host":"Codeberg","badges":["bornhack-2026-badge"],"evidence":"Public Gitea metadata: BornHack 2026 hardware, non-empty, non-mirror, main branch.","license_detected":null,"github_counterpart":null},
+    {"url":"https://codeberg.org/Ranzbak/bornhack-firmware-2026","host":"Codeberg","badges":["bornhack-2026-badge"],"evidence":"Public Gitea metadata: Rust Embassy code for Cyber Ægg, non-empty, non-mirror, main branch.","license_detected":null,"github_counterpart":null},
+    {"url":"https://codeberg.org/kliment/flipspansion","host":"Codeberg","badges":["tildagon"],"evidence":"Public Gitea metadata: hexpansion project, non-empty, non-mirror, main branch.","license_detected":null,"github_counterpart":null}
+  ],
+  "supporting_docs_groups_or_assets": [
+    {"url":"https://cyberwatch.codeberg.page/","classification":"project documentation/site","repository":"https://codeberg.org/cyberwatch/39C3-release_board"},
+    {"url":"https://codeberg.org/cyberwatch/39C3-release_board/raw/branch/main/README.md","classification":"README asset","repository":"https://codeberg.org/cyberwatch/39C3-release_board"},
+    {"url":"https://gitlab.com/why2025/team-badge","classification":"GitLab group landing page, not a repository; group API id 101478255 lists ten child projects separately below.","repository":null},
+    {"url":"https://gitlab.com/hexum-public-share/bfb/dc34/public/badge/portal-badge","classification":"group or directory landing page; API did not resolve it as a project. It documents a DC34 path only and is not evidence that it replaces unavailable Hexum064 DC33 repositories.","repository":null},
+    {"url":"https://gitlab.com/hexum-public-share/bfb/dc34/public/badge/portal-badge/software/ch32fun-portal-badge/-/blob/main/design.docx","classification":"document asset","repository":"https://gitlab.com/hexum-public-share/bfb/dc34/public/badge/portal-badge/software/ch32fun-portal-badge"},
+    {"url":"https://gitlab.com/techmaker/nonamecon/nonamebadge-2019-public/-/tree/master/main","classification":"repository directory","repository":"https://gitlab.com/techmaker/nonamecon/nonamebadge-2019-public"},
+    {"url":"https://gitlab.com/techmaker/nonamecon/nonamebadge-2020-public/-/tree/master/main","classification":"repository directory","repository":"https://gitlab.com/techmaker/nonamecon/nonamebadge-2020-public"},
+    {"url":"https://gitlab.com/tidklaas/hip-badge/-/blob/master/graphics/boardrendfront.png","classification":"image asset","repository":"https://gitlab.com/tidklaas/hip-badge"},
+    {"url":"https://gitlab.com/tidklaas/hip-badge/-/blob/master/graphics/COPYING","classification":"license document asset","repository":"https://gitlab.com/tidklaas/hip-badge"},
+    {"url":"https://codeberg.org/Ranzbak/bornhack2026-hardware/src/branch/main/imgs/badge-front.png","classification":"image asset","repository":"https://codeberg.org/Ranzbak/bornhack2026-hardware"},
+    {"url":"https://gitlab.com/hyperglitch/dc2024badge/-/blob/main/badge.jpg","classification":"image asset","repository":"https://gitlab.com/hyperglitch/dc2024badge"},
+    {"url":"https://saintcon.gitlab.io/Badge2017/","classification":"published documentation site; possible Pages source path is unverified","repository":null},
+    {"url":"https://saintcon.gitlab.io/Badge2017/assembly/","classification":"published documentation subpage","repository":null},
+    {"url":"https://saintcon.gitlab.io/Badge2017/flashing/","classification":"published documentation subpage","repository":null},
+    {"url":"https://saintcon.gitlab.io/Badge2017/registration/","classification":"published documentation subpage","repository":null},
+    {"url":"https://saintcon.gitlab.io/Badge2017/retro-pie/","classification":"published documentation subpage","repository":null},
+    {"url":"https://saintcon.gitlab.io/Badge2017/official-badges/","classification":"published documentation subpage","repository":null},
+    {"url":"https://saintcon.gitlab.io/Badge2017/unofficial-badges/","classification":"published documentation subpage","repository":null}
+  ],
+  "discovered_group_repositories": {
+    "group_url": "https://gitlab.com/why2025/team-badge",
+    "primary_evidence": "GitLab API GET /api/v4/groups/why2025%2Fteam-badge returned group id 101478255 and ten listed projects on 2026-09-05.",
+    "note": "These are discoveries from the group, not additions to the original 36-link classification count. Their license files and preservation suitability require separate review.",
+    "projects": [
+      {"id":72080048,"url":"https://gitlab.com/why2025/team-badge/mass-usb-firmware-flasher","description":""},
+      {"id":72075515,"url":"https://gitlab.com/why2025/team-badge/badgevms-applications","description":null},
+      {"id":71811594,"url":"https://gitlab.com/why2025/team-badge/micropython","description":null},
+      {"id":71410474,"url":"https://gitlab.com/why2025/team-badge/test-firmware","description":null},
+      {"id":71315805,"url":"https://gitlab.com/why2025/team-badge/firmware","description":""},
+      {"id":68792566,"url":"https://gitlab.com/why2025/team-badge/Hardware","description":""},
+      {"id":68511646,"url":"https://gitlab.com/why2025/team-badge/badgehub-frontend","description":""},
+      {"id":68511621,"url":"https://gitlab.com/why2025/team-badge/badgehub-api","description":""},
+      {"id":68511607,"url":"https://gitlab.com/why2025/team-badge/badgehub-infra","description":""},
+      {"id":68510178,"url":"https://gitlab.com/why2025/team-badge/badgehub-feature-requests","description":"Feature issue lists for BadgeHub for the WHY2025 Badge"}
+    ]
+  },
+  "handling_recommendation": "Keep external repositories as source references until applicable license rights for any independent copy have been reviewed. Supporting pages and assets are evidence links, not standalone repository candidates."
+}
